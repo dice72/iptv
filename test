@@ -1,24 +1,30 @@
 #EXTM3U
-#EXTINF:-1,NL: RTL 4 HD
-http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1234
-#EXTINF:-1,NL: RTL 5 HD
-http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1235
-#EXTINF:-1,NL: RTL 7 HD
-http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1236
-#EXTINF:-1,NL: RTL 8 HD
-http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1237
-#EXTINF:-1,NL: NPO 1 HD
-http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1238
-#EXTINF:-1,NL: NPO 2 HD
-http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1239
-#EXTINF:-1,NL: NPO 3 HD
-http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1240
-#EXTINF:-1,NL: NET 5 HD
-http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1241
-#EXTINF:-1,NL: SBS 9 HD
-http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1242
-#EXTINF:-1,NL: SBS 6 HD
-http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1264
+#EXTINF:-1,NL| NPO 1 HD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/976
+#EXTINF:-1,NL| NPO 2 HD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/974
+#EXTINF:-1,NL| NPO 3 HD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/973
+#EXTINF:-1,NL| RTL 4 HD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/968
+#EXTINF:-1,NL| RTL 5 HD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/967
+#EXTINF:-1,NL| SBS 6 HD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/961
+#EXTINF:-1,NL| RTL 7 HD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/966
+#EXTINF:-1,NL| RTL 8 HD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/1019
+#EXTINF:-1,NL| RTL CRIME HD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/2724
+#EXTINF:-1,NL| RTL LOUNGE HD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/1175
+#EXTINF:-1,NL| RTL Z HD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/1272
+#EXTINF:-1,NL| SBS 9 HD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/960
+#EXTINF:-1,NL| VERONICA HD /DISNEY XD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/950
 #EXTINF:-1,NL: Fox HD
 http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1266
 #EXTINF:-1,NL: Film1 Action
@@ -37,8 +43,6 @@ http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1272
 http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1274
 #EXTINF:-1,NL: Nick Jr.
 http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1277
-#EXTINF:-1,NL: Veronica/Disney XD
-http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1278
 #EXTINF:-1,NL: Nicktoons
 http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1279
 #EXTINF:-1,NL| ZIGGO SPORT SELECT HD
@@ -69,6 +73,82 @@ http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/1025
 http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/1024
 #EXTINF:-1,NL| ESPN 4 HD
 http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/989
+#EXTINF:-1,NL| VIAPLAY 1 EXTRA F1 HD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/883496
+#EXTINF:-1,NL| VIAPLAY AKTIE 1 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863871
+#EXTINF:-1,NL| VIAPLAY AKTIE 2 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863870
+#EXTINF:-1,NL| VIAPLAY DOCU 1 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863869
+#EXTINF:-1,NL| VIAPLAY DOCU 2 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863868
+#EXTINF:-1,NL| VIAPLAY DRAMA 1 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863867
+#EXTINF:-1,NL| VIAPLAY DRAMA 2 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863866
+#EXTINF:-1,NL| VIAPLAY DRAMA 3 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863865
+#EXTINF:-1,NL| VIAPLAY HORROR 1 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863864
+#EXTINF:-1,NL| VIAPLAY HORROR 2 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863863
+#EXTINF:-1,NL| VIAPLAY KOMEDIE 1 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863862
+#EXTINF:-1,NL| VIAPLAY KOMEDIE 2 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863861
+#EXTINF:-1,NL| VIAPLAY KOMEDIE 3 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863860
+#EXTINF:-1,NL| VIAPLAY MISDAAD 1 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863859
+#EXTINF:-1,NL| VIAPLAY MISDAAD 2 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863858
+#EXTINF:-1,NL| VIAPLAY ROMANTIEK 1 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863857
+#EXTINF:-1,NL| VIAPLAY ROMANTIEK 2 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863856
+#EXTINF:-1,NL| VIAPLAY SCI-FI FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863855
+#EXTINF:-1,NL| VIAPLAY THRILLER 1 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863854
+#EXTINF:-1,NL| VIAPLAY THRILLER 2 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863853
+#EXTINF:-1,NL| VIAPLAY THRILLER 3 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863852
+#EXTINF:-1,NL| VIDEOLAND AKTIE 1 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863851
+#EXTINF:-1,NL| VIDEOLAND AKTIE 2 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863850
+#EXTINF:-1,NL| VIDEOLAND DOCU 1 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863849
+#EXTINF:-1,NL| VIDEOLAND DOCU 2 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863848
+#EXTINF:-1,NL| VIDEOLAND DRAMA 1 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863847
+#EXTINF:-1,NL| VIDEOLAND DRAMA 2 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863846
+#EXTINF:-1,NL| VIDEOLAND DRAMA 3 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863845
+#EXTINF:-1,NL| VIDEOLAND HORROR FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863844
+#EXTINF:-1,NL| VIDEOLAND KOMEDIE 1 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863843
+#EXTINF:-1,NL| VIDEOLAND KOMEDIE 2 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863842
+#EXTINF:-1,NL| VIDEOLAND SCI-FI FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863841
+#EXTINF:-1,NL| HBO GO 1
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/884083
+#EXTINF:-1,NL| HBO GO 2
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/884084
+#EXTINF:-1,NL| HBO GO 3
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/884085
+#EXTINF:-1,NL| HBO GO 4
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/884086
+#EXTINF:-1,NL| HBO GO 5
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/884087
+#EXTINF:-1,NL| 24KITCHEN HD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/1013
 #EXTINF:-1,NL: HBO 2 HD
 http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1264
 #EXTINF:-1,NL: Fox HD
