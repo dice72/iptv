@@ -1,66 +1,2041 @@
 #EXTM3U
-#EXTINF:-1,NL: RTL 4 HD
-http://etya-plus.com:8080/ertan07/ertan0707/46296
-#EXTINF:-1,NL: RTL 5 HD
-http://etya-plus.com:8080/ertan07/ertan0707/46297
-#EXTINF:-1,NL: RTL 7 HD
-http://etya-plus.com:8080/ertan07/ertan0707/46298
-#EXTINF:-1,NL: RTL 8 HD
-http://etya-plus.com:8080/ertan07/ertan0707/46299
-#EXTINF:-1,NL: RTL CRIME
-http://etya-plus.com:8080/ertan07/ertan0707/46300
-#EXTINF:-1,NL: RTL LOUNGE HD
-http://etya-plus.com:8080/ertan07/ertan0707/46301
-#EXTINF:-1,NL: RTL TELEKIDS HD
-http://etya-plus.com:8080/ertan07/ertan0707/46302
-#EXTINF:-1,NL: RTL Z
-http://etya-plus.com:8080/ertan07/ertan0707/46303
-#EXTINF:-1,NL: RTV OOST
-http://etya-plus.com:8080/ertan07/ertan0707/46304
-#EXTINF:-1,NL: SBS 6 HD
-http://etya-plus.com:8080/ertan07/ertan0707/46305
-#EXTINF:-1,NL: SBS 9
-http://etya-plus.com:8080/ertan07/ertan0707/46306
-#EXTINF:-1,NL: SLAM TV
-http://etya-plus.com:8080/ertan07/ertan0707/46307
-#EXTINF:-1,NL: SPIKE
-http://etya-plus.com:8080/ertan07/ertan0707/46308
-#EXTINF:-1,NL: STINGRAY
-http://etya-plus.com:8080/ertan07/ertan0707/46309
-#EXTINF:-1,NL: Stingray CMusic
-http://etya-plus.com:8080/ertan07/ertan0707/46310
-#EXTINF:-1,NL: TLC NL HD
-http://etya-plus.com:8080/ertan07/ertan0707/46311
-#EXTINF:-1,NL: TV 538
-http://etya-plus.com:8080/ertan07/ertan0707/46312
-#EXTINF:-1,NL: TV Gelderland
-http://etya-plus.com:8080/ertan07/ertan0707/46313
-#EXTINF:-1,NL: TV NOORD
-http://etya-plus.com:8080/ertan07/ertan0707/46314
-#EXTINF:-1,NL: VICELAND HD
-http://etya-plus.com:8080/ertan07/ertan0707/46315
-#EXTINF:-1,NL: VIJF
-http://etya-plus.com:8080/ertan07/ertan0707/46316
-#EXTINF:-1,NL: XTREME SPORTS
-http://etya-plus.com:8080/ertan07/ertan0707/46317
-#EXTINF:-1,NL: ZIGGO RACING HD
-http://etya-plus.com:8080/ertan07/ertan0707/46318
-#EXTINF:-1,NL: ZIGGO SPORT DOCU HD
-http://etya-plus.com:8080/ertan07/ertan0707/46319
-#EXTINF:-1,NL: ZIGGO SPORT GOLF HD
-http://etya-plus.com:8080/ertan07/ertan0707/46320
-#EXTINF:-1,NL: ZIGGO SPORT SELECT HD
-http://etya-plus.com:8080/ertan07/ertan0707/46321
-#EXTINF:-1,NL: Ziggo Sport Voetbal
-http://etya-plus.com:8080/ertan07/ertan0707/46322
-#EXTINF:-1,NL: ZIGGO VOETBAL HD
-http://etya-plus.com:8080/ertan07/ertan0707/46323
-#EXTINF:-1,NL:100% NL
-http://etya-plus.com:8080/ertan07/ertan0707/46324
-#EXTINF:-1,NL:NICK MUSIC
-http://etya-plus.com:8080/ertan07/ertan0707/46325
-#EXTINF:-1,NL:TV ORANJE
-http://etya-plus.com:8080/ertan07/ertan0707/46326
-#EXTINF:-1,NL:VH1 CLASSIC
-http://etya-plus.com:8080/ertan07/ertan0707/46327
-#EXTINF:-1,NL: Disney Channel
+#EXTINF:-1,NL| NPO 1 HD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/976
+#EXTINF:-1,NL| NPO 2 HD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/974
+#EXTINF:-1,NL| NPO 3 HD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/973
+#EXTINF:-1,NL| RTL 4 HD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/968
+#EXTINF:-1,NL| RTL 5 HD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/967
+#EXTINF:-1,NL| SBS 6 HD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/961
+#EXTINF:-1,NL| RTL 7 HD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/966
+#EXTINF:-1,NL| RTL 8 HD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/1019
+#EXTINF:-1,NL| RTL CRIME HD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/2724
+#EXTINF:-1,NL| RTL LOUNGE HD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/1175
+#EXTINF:-1,NL| RTL Z HD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/1272
+#EXTINF:-1,NL| SBS 9 HD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/960
+#EXTINF:-1,NL| VERONICA HD /DISNEY XD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/950
+#EXTINF:-1,NL: Fox HD
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1266
+#EXTINF:-1,NL: Film1 Action
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1267
+#EXTINF:-1,NL: Film1 Premiere
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1268
+#EXTINF:-1,NL: Film1 Drama
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1269
+#EXTINF:-1,NL: Film1 Family
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1270
+#EXTINF:-1,NL: Discovery HD
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1271
+#EXTINF:-1,NL: Discovery Science HD
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1272
+#EXTINF:-1,NL: Spike
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1274
+#EXTINF:-1,NL: Nick Jr.
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1277
+#EXTINF:-1,NL: Nicktoons
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1279
+#EXTINF:-1,NL| ZIGGO SPORT SELECT HD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/956
+#EXTINF:-1,NL| ZIGGO SPORT VOETBAL HD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/1015
+#EXTINF:-1,NL| ZIGGO SPORT GOLF HD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/957
+#EXTINF:-1,NL| ZIGGO SPORT RACING HD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/1016
+#EXTINF:-1,NL| ZIGGO SPORT DOCU HD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/26217
+#EXTINF:-1,NL| ZIGGO SPORT TENNIS HD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/26218
+#EXTINF:-1,NL|  UFC [SPECIAL EVENTS]
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/456493
+#EXTINF:-1,NL| GLORY 80 [19-03-2022]
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/398045
+#EXTINF:-1,NL| EUROSPORT 1 HD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/998
+#EXTINF:-1,NL| EUROSPORT 2 HD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/3651
+#EXTINF:-1,NL| ESPN 1 HD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/1026
+#EXTINF:-1,NL| ESPN  2 HD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/1025
+#EXTINF:-1,NL| ESPN  3 HD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/1024
+#EXTINF:-1,NL| ESPN 4 HD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/989
+#EXTINF:-1,NL| VIAPLAY 1 EXTRA F1 HD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/883496
+#EXTINF:-1,NL| VIAPLAY AKTIE 1 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863871
+#EXTINF:-1,NL| VIAPLAY AKTIE 2 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863870
+#EXTINF:-1,NL| VIAPLAY DOCU 1 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863869
+#EXTINF:-1,NL| VIAPLAY DOCU 2 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863868
+#EXTINF:-1,NL| VIAPLAY DRAMA 1 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863867
+#EXTINF:-1,NL| VIAPLAY DRAMA 2 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863866
+#EXTINF:-1,NL| VIAPLAY DRAMA 3 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863865
+#EXTINF:-1,NL| VIAPLAY HORROR 1 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863864
+#EXTINF:-1,NL| VIAPLAY HORROR 2 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863863
+#EXTINF:-1,NL| VIAPLAY KOMEDIE 1 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863862
+#EXTINF:-1,NL| VIAPLAY KOMEDIE 2 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863861
+#EXTINF:-1,NL| VIAPLAY KOMEDIE 3 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863860
+#EXTINF:-1,NL| VIAPLAY MISDAAD 1 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863859
+#EXTINF:-1,NL| VIAPLAY MISDAAD 2 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863858
+#EXTINF:-1,NL| VIAPLAY ROMANTIEK 1 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863857
+#EXTINF:-1,NL| VIAPLAY ROMANTIEK 2 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863856
+#EXTINF:-1,NL| VIAPLAY SCI-FI FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863855
+#EXTINF:-1,NL| VIAPLAY THRILLER 1 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863854
+#EXTINF:-1,NL| VIAPLAY THRILLER 2 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863853
+#EXTINF:-1,NL| VIAPLAY THRILLER 3 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863852
+#EXTINF:-1,NL| VIDEOLAND AKTIE 1 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863851
+#EXTINF:-1,NL| VIDEOLAND AKTIE 2 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863850
+#EXTINF:-1,NL| VIDEOLAND DOCU 1 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863849
+#EXTINF:-1,NL| VIDEOLAND DOCU 2 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863848
+#EXTINF:-1,NL| VIDEOLAND DRAMA 1 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863847
+#EXTINF:-1,NL| VIDEOLAND DRAMA 2 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863846
+#EXTINF:-1,NL| VIDEOLAND DRAMA 3 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863845
+#EXTINF:-1,NL| VIDEOLAND HORROR FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863844
+#EXTINF:-1,NL| VIDEOLAND KOMEDIE 1 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863843
+#EXTINF:-1,NL| VIDEOLAND KOMEDIE 2 FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863842
+#EXTINF:-1,NL| VIDEOLAND SCI-FI FHD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/863841
+#EXTINF:-1,NL| HBO GO 1
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/884083
+#EXTINF:-1,NL| HBO GO 2
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/884084
+#EXTINF:-1,NL| HBO GO 3
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/884085
+#EXTINF:-1,NL| HBO GO 4
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/884086
+#EXTINF:-1,NL| HBO GO 5
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/884087
+#EXTINF:-1,NL| 24KITCHEN HD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/1013
+#EXTINF:-1,NL: HBO 2 HD
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1264
+#EXTINF:-1,NL: Fox HD
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1266
+#EXTINF:-1,NL: Film1 Action
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1267
+#EXTINF:-1,NL: Film1 Premiere
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1268
+#EXTINF:-1,NL: Film1 Drama
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1269
+#EXTINF:-1,NL: Film1 Family
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1270
+#EXTINF:-1,NL: Discovery HD
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1271
+#EXTINF:-1,NL: Discovery Science HD
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1272
+#EXTINF:-1,NL: Spike
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1274
+#EXTINF:-1,NL: Nick Jr.
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1277
+#EXTINF:-1,NL: Veronica/Disney XD
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1278
+#EXTINF:-1,NL: Nicktoons
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1279
+#EXTM3U
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",FOX MOVIES
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFNtYwJYt4IB7qujDeO56OAM?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",FOX Movies
+http://stariptv.org:8080/hakim2021/123456/4742?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",Fox Movies
+http://cdn99.one:80/356195/FgHq4u/74890.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",Fox Movies FHD
+http://cdn99.one:80/356195/FgHq4u/74891.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",BEIN MOVIES ACTION 2 HD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/132708?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",BEIN MOVIES ACTION HD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/138922?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",BEIN MOVIES FAMILY HD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/132398?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",BEIN MOVIES PREMIER  HD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/132402?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",BEIN MOVIES PREMIER 2 HD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/132709?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",BEIN MOVIES STARS HD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/132400?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",BEIN MOVIES TURK HD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/132710?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",MOVIESMART CLASSIC HD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/139527?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",MOVIESMART CLASSIC HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/92388?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",MOVIESMART TURK HD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/132718?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",MOVIESMART TURK HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/92385?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",Moviesmart Premium 2
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFDthvDKP_aVyOr1RrxgxQGU?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",PRIMA MOVIES
+http://51.210.199.40/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",beIN MOVIES ACTION
+http://stariptv.org:8080/hakim2021/123456/93328?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",beIN MOVIES FAMILY HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/92380?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",beIN MOVIES PREMIER
+http://stariptv.org:8080/hakim2021/123456/93326?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",beIN MOVIES PREMIER 2 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/92379?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",beIN MOVIES PREMIER HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/92378?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",beIN Movies Premier HD
+http://stariptv.org:8080/hakim2021/123456/93547?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="https://i.imgur.com/5Ygj2DL.jpg" group-title="Classic",TVS Nostalgia Movies (480p)
+https://rpn1.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",American Horrors Movies EN
+http://170.178.189.70:1935/live/Stream1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png" group-title="Undefined",Cinedigm : My Time Movies
+https://mytime-vizio-ingest.cinedigm.com/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",DSTV: M-Net Movies Action
+http://stariptv.org:8080/wael2021/123456/92199?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",DSTV: M-Net Movies Action+
+http://stariptv.org:8080/wael2021/123456/92197?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_Free-Movies_300x300.png?raw=true" group-title="Undefined",FilmRise : Free Movies,Filmrise free movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/1fSHgSs.jpg" group-title="Undefined",FilmRise Free Movies
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/XuWEujn.png" group-title="Undefined",Filmrise Movies
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81IDRdRJYyL.png" group-title="Undefined",GRAVITAS MOVIES
+https://gravitas-movies.sinclair.wurl.com/manifest/512.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Gravitas Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugravitasmovies/CDN/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/uvgzOP5.png" group-title="Undefined",Gravitas Movies
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://od.lk/s/MF8yMjg4NDg5NDNf/Hallmark-More_760x760.png" group-title="Undefined",Hallmark Movies & More,Hallmark Movies & More : HD
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/hcLUKfv.jpg" group-title="Movies",Hallmark Movies & More
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="Undefined",Hits Movies
+https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/607df5a93273c1288c732f59" group-title="Entertainment",Local Now Movies of the 2000s
+https://linear-167.frequency.stream/dist/localnow/167/hls/master/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/607df6d8ec9c645c921ecaa3" group-title="Entertainment",Local Now Movies of the 2010s
+https://linear-168.frequency.stream/dist/localnow/168/hls/master/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Local Now Movies of the 2020s (720p)
+https://linear-169.frequency.stream/dist/localnow/169/hls/master/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Local Now Movies of the 30's and 40's (720p)
+https://linear-204.frequency.stream/dist/localnow/204/hls/master/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Local Now Movies of the 50's and 60's (720p)
+https://linear-203.frequency.stream/dist/localnow/203/hls/master/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Local Now Movies of the 70's (720p)
+https://linear-172.frequency.stream/dist/localnow/172/hls/master/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Local Now Movies of the 80's (720p)
+https://linear-171.frequency.stream/dist/localnow/171/hls/master/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Local Now Movies of the 90's (720p)
+https://linear-170.frequency.stream/dist/localnow/170/hls/master/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/iK3OHVr.png" group-title="Undefined",Maverick Movies
+http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png" group-title="Undefined",MovieSphere : HD
+https://moviesphere-plex.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Movies Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Moviesphere
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_lionsgate-moviesphere-roku-us/CDN/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Moviesphere (England)
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/DTXQ3Pc.png" group-title="Undefined",Moviesphere Free
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Moviesphere UK
+https://moviesphereuk-rakuten.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/SQInLji.png" group-title="Undefined",My time Movies Network
+https://mytime-tcl.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="Undefined",Roku : Moviesphere
+https://moviesphere-roku.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Runtime_120x120.png?raw=true" group-title="Undefined",RunTime Free Movies
+https://ammoruntime-plex.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",RunTime Free Movies
+https://ammoruntime-plex.amagi.tv/playlistR432p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/0a9b36ef-1240-47c1-a7e6-5ed04648ad72-small3x1_stirr_1219_epg_stirrhorror_1920x1080.png?cb=a87ff679a2f3e71d9181a67b7542122c" group-title="Undefined",STIRR Horror Movies
+https://dai.google.com/linear/hls/event/3NTKKQBuQtaIrcUBj20lyg/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/VLWDHGs.png" group-title="Classic",TVS Classic Movies (480p)
+https://rpn1.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/5Ygj2DL.jpg" group-title="Classic",TVS Nostalgia Movies (480p)
+https://rpn1.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/5Ygj2DL.jpg" group-title="Classic",TVS Nostalgia Movies (480p)
+https://rpn1.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",The Seventh Dimension (Public-OnDemandMovies) (US) (English)
+http://cdnvod.setv.ca/hls/The.Seventh.Dimension.2009.BRRip.XviD.MP3-RARBG.mp4/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/VictorValleyMovies_229x229.png?raw=true" group-title="Undefined",Victor Valley TV-3 : Movies
+https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Xumo Free Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumofreemovies/CDN/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://www.asiantvawards.com/wp-content/uploads/2017/08/tvN-movie-logo-no-tagline.jpg" group-title="Undefined",tvN Movies
+https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",B4U MOVIES
+http://smartsw.xyz:8080/tom/tom123/99728?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",FilmRise Free Movies on Redbox
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",GREAT! movies+1
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/199534?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",MBO >>> HINDI MOVIES
+http://smartsw.xyz:8080/tom/tom123/404310?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",MBO >>> LATEST HINDI MOVIES
+http://smartsw.xyz:8080/tom/tom123/408086?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",MBO >>>> ENGLISH MOVIES
+http://smartsw.xyz:8080/tom/tom123/404410?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",MBO >>>> PAKISTANI OLD MOVIES SPECIAL
+http://smartsw.xyz:8080/tom/tom123/682539?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",MBO >>>> PUNJABI MOVIES
+http://smartsw.xyz:8080/tom/tom123/404405?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",MBO >>>> SOUTH INDIAN MOVIES
+http://smartsw.xyz:8080/tom/tom123/404409?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",MOVIES 24
+http://mains.services:2086/kixy2030/u8zC9nvB69/98695?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Movies4Men
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/199556?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SONY MOVIES SD
+http://smartsw.xyz:8080/tom/tom123/95667?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Turner Classic Movies
+http://smartsw.xyz:8080/tom/tom123/95664?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/cQZdGc0.png" group-title="Undefined",Filmrise Movies,US | Filmrise Movies
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/1280x720_5000000/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="Movies;Undefined",Gravitas Movies,Redbox : Gravitas Movies,US | Gravitas Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HALLMARK MOVIES
+http://mains.services:2086/kixy2030/u8zC9nvB69/14947?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HALLMARK MOVIES & MYSTERIES FHD 1080
+http://mains.services:2086/kixy2030/u8zC9nvB69/64098?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HDNET MOVIES
+http://mains.services:2086/kixy2030/u8zC9nvB69/56133?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Hallmark Movies & Mysteries
+http://megatitan.net:8080/andres12/andres12/30896?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Hallmark Movies & Mysteries FHD
+http://iptvmedia.live:8080/12810/7f788911/3388?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Hallmark Movies & Mysteries HD
+http://megatitan.net:8080/andres12/andres12/32834?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Hallmark Movies&Mysteries HD 1080P
+http://120322.1222908.net:2086/9CdGgD6vni/lFybJms788/323335?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="Undefined",Maverick Black Cinema,Maverick Movies,Redbox : Maverick Black Cinema,US | Maverick Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/iK3OHVr.png" group-title="Undefined",RedBox Maverick Movies
+http://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="Undefined",STIRR Movies,US | STIRR Movies
+https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TURNER CLASSIC MOVIES
+http://mains.services:2086/kixy2030/u8zC9nvB69/128?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TURNER CLASSIC MOVIES FHD 1080
+http://mains.services:2086/kixy2030/u8zC9nvB69/64035?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Turner Classic Movies
+http://megatitan.net:8080/andres12/andres12/227992?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA Hallmark Movies & Mysteries LHD
+http://gtv23.xyz:80/rererere/rererere/175871.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA Hallmark Movies & Mysteries UHD
+http://gtv23.xyz:80/rererere/rererere/175870.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA LIFETIME MOVIES HD
+http://gtv23.xyz:80/rererere/rererere/229025.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",FOX Movies
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/245?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",FOX Movies
+http://tv.romanija.xyz:8080/22maky/test111/245?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",FOX Movies HD (HR)
+http://cmsvs.tvmoip.com:18080/ZvezdanStefan/StefanZvezdan/124?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Fox Movies
+http://stariptv.org:8080/wael2021/123456/102016?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Fox Movies
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFF8NsLZiznzOjF3-l3U7JfA?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",HBO MOVIES 1
+http://stariptv.org:8080/wael2021/123456/143983?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",HBO MOVIES 2
+http://stariptv.org:8080/wael2021/123456/144209?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",HBO MOVIES 3
+http://stariptv.org:8080/wael2021/123456/144266?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",NETFLIX MOVIES
+http://stariptv.org:8080/wael2021/123456/107035?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",OSN Movies Disney
+http://stariptv.org:8080/wael2021/123456/100360?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",OSN Movies First +2
+http://stariptv.org:8080/wael2021/123456/100349?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",OSN STAR MOVIES
+http://stariptv.org:8080/wael2021/123456/100369?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",OSN movies
+http://stariptv.org:8080/wael2021/123456/100347?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",OSN movies first
+http://stariptv.org:8080/wael2021/123456/100348?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",OSN: MOVIES  FIRST +2 HD
+http://stariptv.org:8080/wael2021/123456/55935?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",OSN: MOVIES ACTION HD
+http://stariptv.org:8080/wael2021/123456/55940?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",OSN: MOVIES BINGI
+http://stariptv.org:8080/wael2021/123456/55941?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",OSN: MOVIES DISNEY HD
+http://dontuse.fluxz.cc:80/4560972750676384/Bl7pvsBfRK/117158?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",OSN: MOVIES Disney HD
+http://stariptv.org:8080/wael2021/123456/55942?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",OSN: MOVIES ENGIMA HD
+http://stariptv.org:8080/wael2021/123456/55943?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",OSN: MOVIES FIRST HD
+http://stariptv.org:8080/wael2021/123456/55934?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",OSN: MOVIES FIRST+2 HD
+http://93.114.194.146:80/4560972750676384/Bl7pvsBfRK/117149?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",OSN: MOVIES FIRST+2 HD
+http://dontuse.fluxz.cc:80/4560972750676384/Bl7pvsBfRK/117149?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",OSN: MOVIES HD
+http://stariptv.org:8080/wael2021/123456/55939?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",OSN: MOVIES KIDS HD
+http://stariptv.org:8080/wael2021/123456/55944?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",OSN: STAR MOVIES HD
+http://93.114.194.146:80/4560972750676384/Bl7pvsBfRK/117144?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",OSN: STAR MOVIES HD
+http://dontuse.fluxz.cc:80/4560972750676384/Bl7pvsBfRK/117144?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",OSN: STAR MOVIES HD
+http://stariptv.org:8080/wael2021/123456/55956?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Pink Movies
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFOhvjlf_wSBSSqNrK88Lvsc?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Pink Movies
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/258?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Pink Movies
+http://tv.romanija.xyz:8080/22maky/test111/258?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Pink Movies (SR)
+http://cmsvs.tvmoip.com:18080/ZvezdanStefan/StefanZvezdan/100?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Sky-MoviesComedy
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",beIN FOX MOVIES
+http://stariptv.org:8080/wael2021/123456/22176?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",beIN FOX MOVIES ACTION
+http://stariptv.org:8080/wael2021/123456/132007?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",beIN MOVIES ACTION
+http://stariptv.org:8080/wael2021/123456/131989?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",beIN MOVIES DRAMA
+http://stariptv.org:8080/wael2021/123456/131988?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",beIN MOVIES FAMILY
+http://stariptv.org:8080/wael2021/123456/131987?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",beIN MOVIES Premiere
+http://stariptv.org:8080/wael2021/123456/131990?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/DQqcXqk.png" group-title="Kids",ABC Kids
+https://c.mjh.nz/101002210222/?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Kids",Discovery Kids
+http://qra1.me:80/21outu/panzer.32/29894?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Kids",Discovery Kids
+http://qra1.me:80/21outu/panzer.32/25038?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Kids",Discovery Kids
+http://qra1.me:80/21outu/panzer.32/25036?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Kids",KIDS
+http://168.205.87.198:8555/live/antony/1234/143.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Kids",KIDS
+http://168.205.87.198:8555/live/leila/123456/143.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Kids",KIDS
+http://168.205.87.198:8555/live/JOSEE/123456/143.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Kids",KIDS
+http://168.205.87.198:8555/live/michele/123456/143.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Kids",KIDS
+http://168.205.87.198:8555/live/1221/123456/143.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Kids",KIDS
+http://168.205.87.198:8555/live/1111/123456/143.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Kids",KIDS
+http://168.205.87.198:8555/live/1114/123456/143.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/kuriakos2bkids.png" group-title="Kids",Kuriakos Kids
+http://c2.manasat.com:1935/kkids/kkids2/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Kids",NatGeo Kids
+http://qra1.me:80/21outu/panzer.32/25083?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Kids",NatGeo Kids
+http://qra1.me:80/21outu/panzer.32/25081?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",EKIDS
+http://stariptv.org:8080/hakim2021/123456/16063?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",EKIDS
+http://stariptv.org:8080/wael2021/123456/16063?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Kids",Ekids
+http://78.83.191.18:8000/play/a06d?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Ekids
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFIJEqA_McjwC9tduyPhhwk0?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC Kids
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFJ-2dzY8BVmPBLipEf1Q8h4?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SLTV SPY KIDS HD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/400297?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",SHEMARRO KIDS
+https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",Kuriakos Kids
+http://stariptv.org:8080/hakim2021/123456/4745?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",Kuriakos Kids
+http://stariptv.org:8080/wael2021/123456/4745?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="https://i.imgur.com/aNVzKYJ.png" group-title="Undefined",Kuriakos Kids,PT | Kuriakos Kids
+http://c2.manasat.com:1935/kkids/kkids3/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="https://i.imgur.com/tfc2BYM.png" group-title="Kids",Kuriakos Kids
+http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/7K7zmoE.png" group-title="Kids",EBS Kids
+rtsp://ebsonair.ebs.co.kr/ebsutablet500k/tablet500k?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",Sic Kids FHD
+http://cdn99.one:80/356195/FgHq4u/74950.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Kids",KiDS TURK HD
+https://mn-nl.mncdn.com/blutv_cocuk_dvr/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8a963949-fdb5-4004-8b39-fd327aa88b1c.png" group-title="Kids",blutv Kids
+https://mn-nl.mncdn.com/blutv_cocuk_dvr/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="https://i.imgur.com/ZbAVzad.png" group-title="Kids",KidsFlix (720p)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://static.ebs.co.kr/www/common/img/kids/head_logo_kids.gif" group-title="Kids",EBS Kids (360p)
+http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",DSTV: PBS Kids
+http://stariptv.org:8080/wael2021/123456/92185?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/ZbAVzad.png" group-title="Kids",KidsFlix
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50&live=1&app_bundle=com.plexapp.desktop&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Kids",HappyKids
+https://happykids-vizio.amagi.tv/playlist480p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Kids",HappyKids
+https://happykids-vizio.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Kids",HappyKids Junior
+https://happykidsjunior-vizio.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",NatGeo Kids FHD
+http://megatitan.net:8080/andres12/andres12/24307?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Kuriakos Kids (New!)
+http://c2.manasat.com:1935/kkids/kkids3/iptvm3uplaylists.com.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/07212020/circle_190x190.png?raw=true" group-title="Kids",Moonbug Kids not geo via roku
+https://moonbug-rokuus.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Kids",PBS Kids Arizona (KAET-DT4)
+https://livestream.pbskids.org/out/v1/00a3b9014fa54c40bee6ca68a104a8a4/mst.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Kids",PBS Kids Florida (1080p)
+https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="Undefined",Roku : HappyKids.tv
+https://happykids-roku.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png" group-title="Kids",Rotana Kids (1080p)
+https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png" group-title="Kids",Rotana Kids (1080p)
+https://hiplayer.hibridcdn.net/t/rotana-kids.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Kids",Sat 7 Kids (720p)
+https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Kids;Undefined",Shemaroo Kids
+https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_1280x720_cf.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Kids",The.Kids.Of.Grove.2020
+http://62.210.209.138:41000/movie/v52/v43/6168.mp4?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/eOvzf3d.png" group-title="Undefined",3ABN Kids,US | 3ABN Kids
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",3ABN Kids Network HD
+http://iptvmedia.live:8080/12810/7f788911/166132?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Kids",KET PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Kids Click (Geo)
+https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",STARZ Kids & Family
+http://myhosting.one:8080/arsenal1/arsenal1/261272?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Kids & Family HD
+http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/15675.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Kids & Family HD 1080P
+http://120322.1222908.net:2086/9CdGgD6vni/lFybJms788/323578?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Kids & Family West
+http://myhosting.one:8080/arsenal1/arsenal1/261273?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",StarzKids & Family HD 1080P
+http://120322.1222908.net:2086/9CdGgD6vni/lFybJms788/323272?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Kids",USA Starz Kids & Family
+http://gtv23.xyz:80/rererere/rererere/176083.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Universal Kids
+http://myhosting.one:8080/arsenal1/arsenal1/261180?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Universal Kids West
+http://myhosting.one:8080/arsenal1/arsenal1/261179?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Universal kids
+http://stariptv.org:8080/wael2021/123456/148454?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Universal kids
+http://stariptv.org:8080/hakim2021/123456/148454?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",AXA Kids H265
+http://stariptv.org:8080/wael2021/123456/97519?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Kids",Balkan Kids
+http://stariptv.org:8080/wael2021/123456/102095?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Kids",CroMax SELECT Kids HD
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/284?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Kids",CroMax SELECT Kids HD
+http://tv.romanija.xyz:8080/22maky/test111/284?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Kids",KIDS.Atfal W Mawaheb
+http://stariptv.org:8080/wael2021/123456/88031?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Kids",KIDS.CN ARABIA
+http://stariptv.org:8080/wael2021/123456/67770?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Kids",KIDS.HodHod TV
+http://stariptv.org:8080/wael2021/123456/88020?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Kids",KIDS.Karameesh
+http://stariptv.org:8080/wael2021/123456/88027?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Kids",KIDS.SPACETOON
+http://stariptv.org:8080/wael2021/123456/67749?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Kids",KIDS.Taha
+http://stariptv.org:8080/wael2021/123456/88017?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Kids",KIDS.Toyor Al Janah
+http://stariptv.org:8080/wael2021/123456/88029?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Kids",KIDS.beIN Baraem HD
+http://stariptv.org:8080/wael2021/123456/88023?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Kids",KIDS.beIN JEEM EUROPEN
+http://stariptv.org:8080/wael2021/123456/22172?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Kids",Kids FM
+https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Kids",OSN KIDS
+http://stariptv.org:8080/wael2021/123456/100359?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Kids",OSN Kids Zone
+http://stariptv.org:8080/wael2021/123456/100371?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",OSN: KIDS ZONE HD
+http://stariptv.org:8080/wael2021/123456/55937?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Kids",Pink Kids
+http://tv.romanija.xyz:8080/22maky/test111/360?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Kids",Pink Kids
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/360?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Kids",Pink Superkids (SR)
+http://cmsvs.tvmoip.com:18080/ZvezdanStefan/StefanZvezdan/3054?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Kids",kids.Almajd KIDS
+http://stariptv.org:8080/wael2021/123456/98026?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Kids",kids.Disney Channel HD
+http://stariptv.org:8080/wael2021/123456/98036?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Kids",kids.Disney Junior HD
+http://stariptv.org:8080/wael2021/123456/98032?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Kids",kids.FIX FOXI HD
+http://stariptv.org:8080/wael2021/123456/98027?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Kids",kids.KOKKY
+http://stariptv.org:8080/wael2021/123456/98029?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Kids",kids.Kids Zone
+http://stariptv.org:8080/wael2021/123456/98028?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Kids",kids.MODY
+http://stariptv.org:8080/wael2021/123456/98035?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Kids",kids.Majid Kids TV
+http://stariptv.org:8080/wael2021/123456/98045?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Kids",kids.NickToon HD
+http://stariptv.org:8080/wael2021/123456/98034?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Kids",kids.Nickelodeon HD
+http://stariptv.org:8080/wael2021/123456/98037?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Kids",kids.Rotana Kids FHD
+http://stariptv.org:8080/wael2021/123456/98040?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Kids",kids.Rotana Kids HD
+http://stariptv.org:8080/wael2021/123456/98024?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Kids",kids.Sanafir
+http://stariptv.org:8080/wael2021/123456/98025?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Kids",Жара Kids TV HD
+http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8?checkedby:iptvcat.com
+#EXTM3U
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",History
+http://mfe.cliptv.az/dash/History_HD.ism/playlist.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Viasat History
+http://mfe.cliptv.az/dash/Viasat_History_SD.ism/playlist.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",History 2
+http://qra1.me:80/21outu/panzer.32/25008?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",History 2
+http://qra1.me:80/21outu/panzer.32/25007?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",History Channel
+http://qra1.me:80/21outu/panzer.32/25002?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",History Channel
+http://qra1.me:80/21outu/panzer.32/25000?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",History Channel
+http://stariptv.org:8080/wael2021/123456/16069?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",History Channel
+http://78.83.191.18:8000/play/a05u?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Viasat History
+http://78.83.191.18:8000/play/a03r?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Viasat Nature & History HD
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFFFEJ7RzDUr-YPePeSLLDxg?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",History Channel
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFEGGNEmdKTjn-J_UXSgWMkQ?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",HISTORY FHD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/173732?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",HISTORY HD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/3439?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",HISTORY HD
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFNNKgC6wRJ452TPLRzVoawU?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",History HD
+http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/148.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",History HD (720p)
+http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/385.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",History HD (HEVC)
+http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/10155.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",History HD DE
+http://stariptv.org:8080/wael2021/123456/44603?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",VIP HISTORY HD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/377248?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",History FHD
+http://iptvmedia.live:8080/12810/7f788911/264522?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",History
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFKfJyEfz4HfHdLKsWaNSmso?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",History
+http://120322.1222908.net:2086/9CdGgD6vni/lFybJms788/333327?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Undefined",Viasat History (NO)
+http://cmsvs.tvmoip.com:18080/ZvezdanStefan/StefanZvezdan/801?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",History
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFAL3pMZn1azosDpBdjKkFkE?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",History HD 1080P
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFAkOKjBO0eGY_UHTxEH7HIM?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Polsat Viasat History HD
+http://stariptv.org:8080/wael2021/123456/71448?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",HISTORY (RO)
+http://cmsvs.tvmoip.com:18080/ZvezdanStefan/StefanZvezdan/3149?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Viasat History RO
+http://stariptv.org:8080/wael2021/123456/56088?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Viasat History RO
+http://stariptv.org:8080/hakim2021/123456/56088?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Undefined",History 2 HD
+http://iptvmedia.live:8080/12810/7f788911/6263?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Undefined",Viasat History
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFPjU_FSMFB0c5_sPqMRJygk?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Undefined",Viasat History HD
+http://iptvmedia.live:8080/12810/7f788911/10645?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",HISTORY CHANNEL HD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/2630?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",HISTORY FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76048?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",HISTORY HD
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFCPY5_IXJcPnhhXwIZ7mr7E?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",VIASAT HISTORY HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76024?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",VIASAT HISTORY HD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/350385?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",VIASAT NATURA & VIASAT HISTORY
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFMLORNO7PYVxiVQZz-M_bKQ?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",VIASAT NATURE - HISTORY HD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/136628?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",ViASAT HiSTORY FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76023?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/112_144.png" group-title="Undefined",HISTORY
+https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="http://www.logotypes101.com/logos/745/D1497F17E46C148F0BA16061B3581C9C/historyhd.png" group-title="Undefined",HISTORY HD
+http://tecnotv.club/dinos/principal.php?c=99&f=.m3u8&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/458f4dc2-aa34-4605-b58a-edfcf49cf778" group-title="Undefined",History Channel (Best of)
+https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="Classic",TVS Hollywood History (408p)
+https://rpn1.bozztv.com/36bay2/gusa-tvshollywoohistory/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="Classic",TVS Hollywood History (408p)
+https://rpn1.bozztv.com/36bay2/gusa-tvshollywoohistory/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Discovery History SD
+http://stariptv.org:8080/wael2021/123456/84788?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",HISTORY FHD
+http://120322.1222908.net:2086/9CdGgD6vni/lFybJms788/323767?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",History HD
+http://stariptv.org:8080/hakim2021/123456/9335?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",History SD
+http://stariptv.org:8080/wael2021/123456/84827?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",History SD
+http://stariptv.org:8080/hakim2021/123456/84827?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",EMPIRE CINEMA History FHD
+http://iptvmedia.live:8080/12810/7f788911/151337?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HISTORY HD 1080P
+http://120322.1222908.net:2086/9CdGgD6vni/lFybJms788/323330?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",History Channel HD
+http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/303.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",History FHD
+http://iptvmedia.live:8080/12810/7f788911/761?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA History Channel
+http://gtv23.xyz:80/rererere/rererere/228301.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA History East UHD
+http://gtv23.xyz:80/rererere/rererere/175878.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",History 2 Channel (HR)
+http://cmsvs.tvmoip.com:18080/ZvezdanStefan/StefanZvezdan/3228?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",History 2 FHD
+http://cdntv.online/high/wvj6futh2r/367.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",History Channel
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/198?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",History Channel
+http://tv.romanija.xyz:8080/22maky/test111/198?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",History Channel (HR)
+http://cmsvs.tvmoip.com:18080/ZvezdanStefan/StefanZvezdan/55?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",History Channel 2
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/199?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",History Channel 2
+http://tv.romanija.xyz:8080/22maky/test111/199?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",MH HISTORY
+http://stariptv.org:8080/wael2021/123456/43661?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",OSN HISTORY 2
+http://stariptv.org:8080/wael2021/123456/100378?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",OSN History 1
+http://stariptv.org:8080/wael2021/123456/100377?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",OSN: HISTORY HD
+http://stariptv.org:8080/wael2021/123456/55936?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Viasat History
+http://tv.romanija.xyz:8080/22maky/test111/200?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Viasat History
+http://stariptv.org:8080/wael2021/123456/101979?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Viasat History
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFNb9jnUM9fekGnuT-l2v82M?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Viasat History
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/200?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Viasat History
+http://cdntv.online/high/wvj6futh2r/318.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Viasat Nature/History HD
+http://cdntv.online/high/wvj6futh2r/375.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AU" tvg-logo="" group-title="Sport",Fox Sports 502 FHD
+http://stariptv.org:8080/wael2021/123456/148522?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AU" tvg-logo="" group-title="Sport",Fox Sports 507 FHD
+http://stariptv.org:8080/wael2021/123456/148527?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/Kxem8ae.jpg" group-title="Sport",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AU" tvg-logo="" group-title="Sport",beIN Sports 1 HD
+http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/1730.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AU" tvg-logo="" group-title="Sport",beIN Sports 2 HD
+http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/1731.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AU" tvg-logo="" group-title="Sport",beIN Sports 3 HD
+http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/1732.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",ELEVEN SPORTS 1 HD
+http://stariptv.org:8080/wael2021/123456/56214?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",ELEVEN SPORTS 2 HD
+http://stariptv.org:8080/wael2021/123456/56215?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ALL SPORTS
+http://168.205.87.198:8555/live/1221/123456/148.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ALL SPORTS
+http://168.205.87.198:8555/live/leila/123456/148.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ALL SPORTS
+http://168.205.87.198:8555/live/antony/1234/148.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ALL SPORTS
+http://168.205.87.198:8555/live/michele/123456/148.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ALL SPORTS
+http://168.205.87.198:8555/live/1111/123456/148.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ALL SPORTS
+http://168.205.87.198:8555/live/JOSEE/123456/148.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ALL SPORTS
+http://168.205.87.198:8555/live/1114/123456/148.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS
+http://168.205.87.198:8555/live/1221/123456/176.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS
+http://168.205.87.198:8555/live/antony/1234/176.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS
+http://168.205.87.198:8555/live/michele/123456/176.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS
+http://168.205.87.198:8555/live/1114/123456/176.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS
+http://168.205.87.198:8555/live/JOSEE/123456/176.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Fox Sports Racing
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFHuwXdO72wM1fubrQZvzFcs?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",GINX eSports TV
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFA2hLQFOytNonhOJbFBlLmQ?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Sportsnet Ontario  (FHD)
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFK9-ZWZkZ_HRJuNHc6YNf4A?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Sportsnet West (FHD)
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFBUE7o_lw_SsM6jBKQr566k?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET PPV
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFChGPV7tCBVO6MKIFplSOmA?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",FOX Sports 1 HD Eredivisie
+http://stariptv.org:8080/wael2021/123456/57504?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",FOX Sports 1 HD Eredivisie
+http://stariptv.org:8080/hakim2021/123456/57504?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",FOX Sports 2 HD
+http://stariptv.org:8080/wael2021/123456/57503?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",FOX Sports 2 HD
+http://stariptv.org:8080/hakim2021/123456/57503?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",FOX Sports 3 HD Eredivisie
+http://stariptv.org:8080/hakim2021/123456/57502?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",FOX Sports 3 HD Eredivisie
+http://stariptv.org:8080/wael2021/123456/57502?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",FOX Sports 4 HD
+http://stariptv.org:8080/hakim2021/123456/57501?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",FOX Sports 4 HD
+http://stariptv.org:8080/wael2021/123456/57501?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",Fox Sports 1
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFOwZV4HbkL-SVXDrOnaGg7k?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",Fox Sports 2
+http://120322.1222908.net:2086/9CdGgD6vni/lFybJms788/344569?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",Fox Sports 2
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFLbKWH4ZmEoBAek4SrQilSo?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",Fox Sports 4 HD ( 1080P )
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFGTpJJPyzjRZGR5jkRDCQ_U?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Sport",TV 2 Sportskanalen HD
+http://stariptv.org:8080/hakim2021/123456/65681?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="OM" tvg-logo="https://i.imgur.com/yaWTUE6.png" group-title="Sport",Oman Sport,SPORT : Oman Sports,SPORT | Oman Sports
+http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",CANAL SPORTS 2
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFLCqE7YqJF5o1yIKsSkKtxk?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",ELEVEN SPORTS 1 HD
+http://stariptv.org:8080/hakim2021/123456/34522?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",ELEVEN SPORTS 2 HD
+http://stariptv.org:8080/hakim2021/123456/34521?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",ELEVEN SPORTS 3 HD
+http://stariptv.org:8080/wael2021/123456/34520?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",ELEVEN SPORTS 3 HD
+http://stariptv.org:8080/hakim2021/123456/34520?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",ELEVEN SPORTS 4 HD
+http://stariptv.org:8080/hakim2021/123456/34519?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",ELEVEN SPORTS 4 HD
+http://stariptv.org:8080/wael2021/123456/34519?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",Eleven Sports 2 FHD
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFLQi5XHEhO0M9T4kiDKFH0U?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",Eleven Sports 3 FHD
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFPQ4LCj5RtUsVLuRcll1xKQ?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",Eleven Sports 4 HD
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFLiDTUaXlIyPOWpdzWzPqSQ?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",Extreme Sports HD 1080
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFCpJLx9XSI50OPaV8U45YCs?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",POLSAT SPORTS
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFIeRlicZFGHacZcNdukoRTk?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 1 HD
+http://stariptv.org:8080/hakim2021/123456/33429?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 2 HD
+http://stariptv.org:8080/hakim2021/123456/33428?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 2 HD
+http://stariptv.org:8080/wael2021/123456/33428?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 4
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFHBqT3QeTqafGeqdpT_KVuk?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 4 HD
+http://stariptv.org:8080/hakim2021/123456/33426?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 5 LOW
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFNARPOsgyZUx0qHBIoslOzc?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 6
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFFUSTzFGfRz0z_uDHYBucNw?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven Sports 1 FHD
+http://cdn99.one:80/356195/FgHq4u/74853.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven Sports 1 FHD [H265]
+http://cdn99.one:80/356195/FgHq4u/74854.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven Sports 1 HD
+http://cdn99.one:80/356195/FgHq4u/74855.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven Sports 2 FHD
+http://cdn99.one:80/356195/FgHq4u/74857.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven Sports 2 FHD [H265]
+http://cdn99.one:80/356195/FgHq4u/74858.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven Sports 2 HD
+http://cdn99.one:80/356195/FgHq4u/74859.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven Sports 3
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFFab2gisoo7JmvP7iI27VDs?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven Sports 3 FHD
+http://cdn99.one:80/356195/FgHq4u/74861.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven Sports 4
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFLY2qNytcDZFVDDgLj_R8gs?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven Sports 5
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFH84t9LuV9gy_7-ZX53231E?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven Sports 5 FHD
+http://cdn99.one:80/356195/FgHq4u/74867.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven Sports 6
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFPUTD_0E2vYwk44rBAqaILI?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven Sports 6 FHD
+http://cdn99.one:80/356195/FgHq4u/74870.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Sport",Extreme Sports
+http://stariptv.org:8080/wael2021/123456/3328?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CH" tvg-logo="" group-title="Sport",MySports 1 HD
+http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/71.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CH" tvg-logo="" group-title="Sport",MySports 2 HD
+http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/72.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CH" tvg-logo="" group-title="Sport",MySports 4 HD
+http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/74.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CH" tvg-logo="" group-title="Sport",MySports 5 HD
+http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/75.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CH" tvg-logo="" group-title="Sport",MySports 6 HD
+http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/76.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CH" tvg-logo="" group-title="Sport",MySports 7 HD
+http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/77.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CH" tvg-logo="" group-title="Sport",MySports 8 HD
+http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/78.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CH" tvg-logo="" group-title="Sport",MySports 9 HD
+http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/79.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CH" tvg-logo="" group-title="Sport",Mysports 3 HD
+http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/16799.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",Action Sports TV 4U
+https://broadcast.mytvtogo.net/actionsports4you/actionsports4you/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 FHD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/269058?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 FHD (HQ)
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/138606?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/78345?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 HD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/123295?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 HD (LQ)
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/6046?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 HD (Mac Zamani)
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/189369?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 HD (Mac Zamani)*
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/374534?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 HEVC
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/224566?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 PLATINUM X SPORTS SD (MAC SAATİ ACIK)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/121356?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 PLATINUM X SPORTS ULTIMATE (MAC SAATİ ACIK)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/121353?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 SD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/138607?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 2 FHD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/7595?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 2 FHD (Mac Zamani)
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/294661?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 2 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76295?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 2 HD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/631?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 2 HD 1080
+http://stariptv.org:8080/wael2021/123456/93382?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 2 HD 1080
+http://stariptv.org:8080/hakim2021/123456/93382?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 2 HEVC
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/177939?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 2 SD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/371296?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 3 (SD/HD)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/78351?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 3 FHD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/7596?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 3 FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76296?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 3 HD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/162816?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 3 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76297?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 3 HD 1080
+http://stariptv.org:8080/hakim2021/123456/93385?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 3 HEVC
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/177940?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 3 SD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/294662?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 4 (SD/HD)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/78352?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 4 FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76298?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 4 FHD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/7597?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 4 HD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/123298?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 4 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76299?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 4 HD 1080
+http://stariptv.org:8080/hakim2021/123456/93383?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 4 SD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/294663?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS HABER FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76304?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS HABER FHD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/383650?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS HABER HD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/129036?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS HABER HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76305?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS MAX 1  FHD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/162818?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS MAX 1 (SD/HD)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/78353?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS MAX 1 FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76300?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS MAX 1 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76301?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS MAX 2 FHD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/162819?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS MAX 2 HD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/114449?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS MAX 2 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76303?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEINSPORTS 1 HD L
+http://stariptv.org:8080/hakim2021/123456/93431?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",Bein SPORTS 1 Feed 4K 10Mbit
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/116592?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY SELECT 1 HD
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFPYLmsdzBws1yaAF6v6fPCY?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY SELECT 4 HD
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFBJHb8_LbzCRhHBMC3QgJX0?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY SELECT 5 HD
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFLHAYlzghQZQAL7-pAM122Q?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY SELECT 7 HD
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFGNdy0eG9riPd4YDbRQb6eU?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY SELECT 8 HD
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFCyMVtMw8iJA4Z7WMjpUmAA?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY SELECT PREMIERE 10 FHD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/135784?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY SELECT PREMIERE 11 FHD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/135783?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY SELECT PREMIERE 12 FHD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/135782?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY SELECT PREMIERE 13 FHD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/135781?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY SELECT PREMIERE 14 FHD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/135780?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY SELECT PREMIERE 15 FHD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/135779?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY SELECT PREMIERE 16 FHD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/135778?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY SELECT PREMIERE 17 FHD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/135777?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY SELECT PREMIERE 18 FHD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/135776?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY SELECT PREMIERE 2 FHD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/3394?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY SELECT PREMIERE 3 FHD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/3393?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY SELECT PREMIERE 4 FHD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/3392?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY SELECT PREMIERE 5 FHD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/3391?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY SELECT PREMIERE 6 FHD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/301602?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY SELECT PREMIERE 7 FHD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/3389?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY SELECT PREMIERE 8 FHD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/3388?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY SELECT PREMIERE 9 FHD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/135785?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY SELECT PREMIERE VITRINE HD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/135775?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT 1 HD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/30036?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT 1 HEVC
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/356346?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT 1 UHD - BUNDESLIGA 1 UHD - F1 UHD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/132807?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT 10 HD (Only Live Event)
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/123025?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT 11 HD (Only Live Event)
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/395375?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT 2 FHD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/132797?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT 2 HD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/30039?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT 2 HEVC
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/356345?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT 3 HD (Only Live Event)
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/123018?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT 4 HD (Only Live Event)
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/123019?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT 5 HD (Only Live Event)
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/123020?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT 6 HD (Only Live Event)
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/123021?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT 8 HD (Only Live Event)
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/123023?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT 9 HD (Only Live Event)
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/123024?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT AUSTRIA 1 HD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/212526?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT AUSTRIA 5 HD (Only Live Event)
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/380719?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT AUSTRIA 6 HD (Only Live Event)
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/380718?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT AUSTRIA 7 HD (Only Live Event)
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/380717?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT AUSTRIA FHD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/132800?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT AUSTRIA HD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/3377?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT BUNDESLIGA 1 FHD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/3415?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT BUNDESLIGA 1 HD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/29997?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT BUNDESLIGA 1 HEVC
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/356343?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT BUNDESLIGA 10 (Only Live Event)
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/3414?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT BUNDESLIGA 2 FHD (Only Live Event)
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/132806?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT BUNDESLIGA 2 HD (Only Live Event)
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/3413?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT BUNDESLIGA 4 FHD (Only Live Event)
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/132804?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT BUNDESLIGA 4 HD (Only Live Event)
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/123115?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT BUNDESLIGA 5 FHD (Only Live Event)
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/132803?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT BUNDESLIGA 5 HD (Only Live Event)
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/3410?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT BUNDESLIGA 6 HD (Only Live Event)
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/3409?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT BUNDESLIGA 7 FHD (Only Live Event)
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/132801?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT BUNDESLIGA 7 HD (Only Live Event)
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/3408?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT BUNDESLIGA 9 (Only Live Event)
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/3406?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT F1 FHD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/330461?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT F1 HD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/366496?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT NEWS FHD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/132799?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT NEWS HD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/3374?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT NEWS HEVC
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/356347?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY SYFY HD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/3367?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKy Sport Austria 3 HD (720p)
+http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/10426.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Sky 1 FHD
+http://iptvmedia.live:8080/12810/7f788911/2115?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Sky Atlantic HD
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFEO3hDQ-N7Uh4SR_i1ejS88?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Sky Atlantic HD
+http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/89.ts?checkedby:iptvcat.com
+#EXTM3U
+#EXTINF:-1,Sport Klub 1
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/137
+#EXTINF:-1,Sport Klub 2
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/138
+#EXTINF:-1,Sport Klub 3
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/139
+#EXTINF:-1,Sport Klub 4
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/140
+#EXTINF:-1,Sport Klub 5
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/141
+#EXTINF:-1,Sport Klub 6
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/142
+#EXTINF:-1,Sport Klub 7
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/143
+#EXTINF:-1,Sport Klub 8
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/144
+#EXTINF:-1,Sport Klub 9
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/145
+#EXTINF:-1,Sport Klub 10
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/146
+#EXTINF:-1,Sport Klub GOLF
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/13883
+#EXTINF:-1,Arena Sport 1 Premium
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/21442
+#EXTINF:-1,Arena Sport 2 Premium
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/21443
+#EXTINF:-1,Arena Sport 3 Premium
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/21444
+#EXTINF:-1,Arena Sport 1
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/150
+#EXTINF:-1,Arena Sport 2
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/151
+#EXTINF:-1,Arena Sport 3
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/152
+#EXTINF:-1,Arena Sport 4
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/153
+#EXTINF:-1,Arena Sport 5
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/154
+#EXTINF:-1,Arena Sport 6
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/21165
+#EXTINF:-1,Arena Sport 1 SD
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/155
+#EXTINF:-1,Arena Sport 2 SD
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/156
+#EXTINF:-1,Arena Sport 3 SD
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/157
+#EXTINF:-1,Arena Sport 4 SD
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/158
+#EXTINF:-1,Sport Klub 1 HR
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/134
+#EXTINF:-1,Sport Klub 2 HR
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/135
+#EXTINF:-1,Sport Klub 3 HR
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/136
+#EXTINF:-1,Arena Sport 1 HR
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/159
+#EXTINF:-1,Arena Sport 2 HR
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/160
+#EXTINF:-1,Arena Sport 3 HR
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/161
+#EXTINF:-1,Arena Sport 4 HR
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/162
+#EXTINF:-1,Arena Sport 5 HR
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/163
+#EXTINF:-1,Arena Sport 6 HR
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/164
+#EXTINF:-1,Arena Sport 7 HR
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/21166
+#EXTINF:-1,Arena Sport 8 HR
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/21167
+#EXTINF:-1,Arena Sport 9 HR
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/21168
+#EXTINF:-1,Arena Sport 10 HR
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/21169
+#EXTINF:-1,Arena Sport 1 BiH
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/165
+#EXTINF:-1,Arena Esport
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/21503
+#EXTINF:-1,Moja TV Sport HD
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/21170
+#EXTINF:-1,Zvezda TV
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/14061
+#EXTINF:-1,TV Partizan
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/14062
+#EXTINF:-1,SK Fight
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/183
+#EXTINF:-1,HNTV
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/184
+#EXTINF:-1,Kreator TV
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/185
+#EXTINF:-1,Lov i Ribolov
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/186
+#EXTINF:-1,Sportska TV
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/191
+#EXTINF:-1,SOS
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/192
+#EXTINF:-1,DAZN 1
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/166
+#EXTINF:-1,DAZN 2
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/167
+#EXTINF:-1,BN Sports 1 HD
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/168
+#EXTINF:-1,BN Sports 2 HD
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/169
+#EXTINF:-1,BN Sports 3 HD
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/170
+#EXTINF:-1,BN Sports 4 HD
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/171
+#EXTINF:-1,BN Sports 5 HD
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/172
+#EXTINF:-1,BN Sports 6 HD
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/173
+#EXTINF:-1,BN Sports 7 HD
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/174
+#EXTINF:-1,BN Sports 8 HD
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/175
+#EXTINF:-1,BN Sports 9 HD
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/176
+#EXTINF:-1,BN Sports 10 HD
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/177
+#EXTINF:-1,BT Sport 1
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/179
+#EXTINF:-1,BT Sport 2
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/180
+#EXTINF:-1,BT Sport 3
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/181
+#EXTINF:-1,NBA TV
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/182
+#EXTM3U
+#EXTINF:-1,UK: 4Seven
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/661
+#EXTINF:-1,UK: Animal Planet
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/667
+#EXTINF:-1,UK: BBC 1
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/670
+#EXTINF:-1,UK: BBC 2
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/671
+#EXTINF:-1,UK: BBC 4
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/673
+#EXTINF:-1,UK: BBC World News
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/676
+#EXTINF:-1,UK: BT Sport ESPN
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/683
+#EXTINF:-1,UK: CBS Drama
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/690
+#EXTINF:-1,UK: CBS Reality
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/691
+#EXTINF:-1,UK: Channel 4
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/693
+#EXTINF:-1,UK: Channel 5
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/694
+#EXTINF:-1,UK: Crime+ Investigation
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/21043
+#EXTINF:-1,UK: Comedy Central
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/699
+#EXTINF:-1,UK: Discovery Channel
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/702
+#EXTINF:-1,UK: Discovery History
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/21040
+#EXTINF:-1,UK: Discovery Turbo
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/21041
+#EXTINF:-1,UK: Discovery Science
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/704
+#EXTINF:-1,UK: DMAX
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/21042
+#EXTINF:-1,UK: Disney Junior
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/708
+#EXTINF:-1,UK: Drama
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/710
+#EXTINF:-1,UK: E!
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/712
+#EXTINF:-1,UK: E4
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/713
+#EXTINF:-1,UK: Fightbox
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/719
+#EXTINF:-1,UK: Food Network  1
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/720
+#EXTINF:-1,UK: Investigation Discovery
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/730
+#EXTINF:-1,UK: iTV 1
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/731
+#EXTINF:-1,UK: iTV 2
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/732
+#EXTINF:-1,UK: iTV 3
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/733
+#EXTINF:-1,UK: MTV Live
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/21044
+#EXTINF:-1,UK: MTV Music
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/742
+#EXTINF:-1,UK: MTV Rocks
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/743
+#EXTINF:-1,UK: Nat Geo Wild
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/745
+#EXTINF:-1,UK: National Geographic
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/746
+#EXTINF:-1,UK: Nick Jr.
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/748
+#EXTINF:-1,UK: Nickelodeon
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/749
+#EXTINF:-1,UK: NickToons
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/750
+#EXTINF:-1,UK: Paramount Channel
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/21039
+#EXTINF:-1,UK: Premier Sports 1
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/754
+#EXTINF:-1,UK: Premier Sports 2
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/21038
+#EXTINF:-1,UK: RTE One
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/21045
+#EXTINF:-1,UK: QUEST
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/756
+#EXTINF:-1,UK: Sky Cinema Hits
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/21046
+#EXTINF:-1,UK: Sky Cinema Action
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/767
+#EXTINF:-1,UK: Sky Cinema Comedy
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/768
+#EXTINF:-1,UK: Sky Cinema Crime & Thriller
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/769
+#EXTINF:-1,UK: Sky Cinema Family
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/772
+#EXTINF:-1,UK: Sky Cinema Premiere
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/774
+#EXTINF:-1,UK: Sky Cinema Sci-Fi & Horror
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/775
+#EXTINF:-1,UK: Sky Cinema Select
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/776
+#EXTINF:-1,UK: Sky News
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/785
+#EXTINF:-1,UK: Sky Sports Cricket
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/788
+#EXTINF:-1,UK: Sky Sports F1
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/789
+#EXTINF:-1,UK: Sky Sports Football
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/790
+#EXTINF:-1,UK: Sky Sports Golf
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/791
+#EXTINF:-1,UK: Sky Sports Arena
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/792
+#EXTINF:-1,UK: Sky Sports Main Event
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/793
+#EXTINF:-1,UK: Sky Sports Mix
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/794
+#EXTINF:-1,UK: Sky Sports News
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/795
+#EXTINF:-1,UK: Sky Sports Premier Liga
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/796
+#EXTINF:-1,UK: SyFy HD
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/800
+#EXTINF:-1,UK: TCM
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/801
+#EXTINF:-1,UK: TLC
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/803
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultM3u.com Live Cams
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net MILF" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultM3u.com MILF
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Big Dick" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultM3u.com Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Big Tits" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultM3u.com Big Tits
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Fetish" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultM3u.com Fetish
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Pornstar" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultM3u.com Pornstar
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Big Ass" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultM3u.com Big Ass
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Interracial" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultM3u.com Interracial
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Latina" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultM3u.com Latina
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net POV" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultM3u.com POV
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Blowjob" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultM3u.com Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Teen" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultM3u.com Teen
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Hardcore" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultM3u.com Hardcore
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Cuckold" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultM3u.com Cuckold
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Threesome" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultM3u.com Threesome
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Russian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultM3u.com Russian
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Lesbian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultM3u.com Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Rough" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultM3u.com Rough
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Gangbang" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultM3u.com Gangbang
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Anal" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultM3u.com Anal
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Compilation" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultM3u.com Compilation
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Brunette" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultM3u.com Brunette
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Blonde" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultM3u.com Blonde
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultM3u.com Asian
+http://cdn.adultiptv.net/asian.m3u8
+#EXTINF:-1,TVP SPORT
+http://stariptv.org:8080/hakim2021/123456/55391?checkedby:iptvcat.com
+#EXTINF:-1,TVP SPORT
+http://stariptv.org:8080/wael2021/123456/55391?checkedby:iptvcat.com
+#EXTINF:-1,TVP Sport HD
+http://stariptv.org:8080/wael2021/123456/71518?checkedby:iptvcat.com
+#EXTINF:-1,ELEVEN SPORTS 2 HD
+http://stariptv.org:8080/wael2021/123456/33428?checkedby:iptvcat.com
+#EXTINF:-1,ELEVEN SPORTS 2 HD
+http://stariptv.org:8080/hakim2021/123456/33428?checkedby:iptvcat.com
+#EXTINF:-1,SPORT TV 1 HD
+http://stariptv.org:8080/wael2021/123456/4119?checkedby:iptvcat.com
+#EXTINF:-1,SPORT TV 1 HD
+http://stariptv.org:8080/hakim2021/123456/4119?checkedby:iptvcat.com
+#EXTINF:-1,SPORT TV 1 SD
+http://stariptv.org:8080/hakim2021/123456/43594?checkedby:iptvcat.com
+#EXTINF:-1,SPORT TV 2 HD
+http://stariptv.org:8080/hakim2021/123456/4120?checkedby:iptvcat.com
+#EXTINF:-1,SPORT TV 2 SD
+http://stariptv.org:8080/hakim2021/123456/43595?checkedby:iptvcat.com
+#EXTINF:-1,SPORT TV 3 HD
+http://stariptv.org:8080/wael2021/123456/4121?checkedby:iptvcat.com
+#EXTINF:-1,SPORT TV 3 HD
+http://stariptv.org:8080/hakim2021/123456/4121?checkedby:iptvcat.com
+#EXTINF:-1,SPORT TV 3 SD
+http://stariptv.org:8080/hakim2021/123456/43596?checkedby:iptvcat.com
+#EXTINF:-1,SPORT TV 4
+http://stariptv.org:8080/hakim2021/123456/4122?checkedby:iptvcat.com
+#EXTINF:-1,SPORT TV 5
+http://stariptv.org:8080/hakim2021/123456/4185?checkedby:iptvcat.com
+#EXTINF:-1,SPORT TV NBA
+http://stariptv.org:8080/hakim2021/123456/44058?checkedby:iptvcat.com
+#EXTINF:-1,SPORT TV+
+http://stariptv.org:8080/hakim2021/123456/4186?checkedby:iptvcat.com
+#EXTINF:-1,Sporting TV
+http://stariptv.org:8080/hakim2021/123456/4736?checkedby:iptvcat.com
+#EXTINF:-1,sporttvmais
+http://62.28.71.186:45678/http/192.168.150.137:7151/sporttvmais?checkedby:iptvcat.com
+#EXTINF:-1,DIGI Sport 1 RO
+http://stariptv.org:8080/wael2021/123456/56158?checkedby:iptvcat.com
+#EXTINF:-1,DIGI Sport 2 RO
+http://stariptv.org:8080/wael2021/123456/56145?checkedby:iptvcat.com
+#EXTINF:-1,DIGI Sport 3 RO
+http://stariptv.org:8080/wael2021/123456/56148?checkedby:iptvcat.com
+#EXTINF:-1,DIGI Sport 4 RO
+http://stariptv.org:8080/wael2021/123456/56159?checkedby:iptvcat.com
+#EXTINF:-1,Sport RO
+http://stariptv.org:8080/wael2021/123456/56075?checkedby:iptvcat.com
+#EXTINF:-1,Red Bull TV SD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Астрахань.Ru Sport
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Астрахань.Ru Sport
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Астрахань.Ru Sport
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Репортер
+http://cdn1.live-tv.od.ua:8081/31chod/31chod/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Репортер 73 (Ульяновск)
+http://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_REP73/variant.m3u8?version=2&checkedby:iptvcat.com
+#EXTINF:-1,Esport Club
+https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Eurosport 1 HD
+http://stariptv.org:8080/wael2021/123456/34053?checkedby:iptvcat.com
+#EXTINF:-1,M. GOLF HD
+http://stariptv.org:8080/wael2021/123456/12072?checkedby:iptvcat.com
+#EXTINF:-1,M. GOLF HD
+http://stariptv.org:8080/hakim2021/123456/12072?checkedby:iptvcat.com
+#EXTINF:-1,ATG
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Viasat Golf
+http://stariptv.org:8080/hakim2021/123456/58281?checkedby:iptvcat.com
+#EXTINF:-1,BEIN SPORT 1 FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76289?checkedby:iptvcat.com
+#EXTINF:-1,BEIN SPORTS 1 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/78345?checkedby:iptvcat.com
+#EXTINF:-1,BEIN SPORTS 1 PLATINUM X SPORTS ULTIMATE (MAC SAATİ ACIK)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/121353?checkedby:iptvcat.com
+#EXTINF:-1,BEIN SPORTS 2 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76295?checkedby:iptvcat.com
+#EXTINF:-1,BEIN SPORTS 2 HD 1080
+http://stariptv.org:8080/hakim2021/123456/93382?checkedby:iptvcat.com
+#EXTINF:-1,BEIN SPORTS 2 HD 1080
+http://stariptv.org:8080/wael2021/123456/93382?checkedby:iptvcat.com
+#EXTINF:-1,UAE.DUBAI SPORT 3
+http://stariptv.org:8080/wael2021/123456/15017?checkedby:iptvcat.com
+#EXTINF:-1,beIN SPORT HD
+http://stariptv.org:8080/wael2021/123456/22186?checkedby:iptvcat.com
+#EXTINF:-1,beIN SPORTS 2 4K
+http://stariptv.org:8080/wael2021/123456/141549?checkedby:iptvcat.com
+#EXTINF:-1,beIN SPORTS 7 4K
+http://stariptv.org:8080/wael2021/123456/141554?checkedby:iptvcat.com
+#EXTINF:-1,beIN Sport NBA HD
+http://stariptv.org:8080/wael2021/123456/150160?checkedby:iptvcat.com
+#EXTINF:-1,beIN Sports HD4 FHD
+http://stariptv.org:8080/wael2021/123456/141569?checkedby:iptvcat.com
+#EXTINF:-1,beIN Sports HD5 FHD
+http://stariptv.org:8080/wael2021/123456/141570?checkedby:iptvcat.com
+#EXTINF:-1,beIN Sports HD6 FHD
+http://stariptv.org:8080/wael2021/123456/141571?checkedby:iptvcat.com
+#EXTINF:-1,Матч! (Резерв2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/bw2000000/variant.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,НТВ+ Спорт
+https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Jordan Sport TV
+http://stariptv.org:8080/wael2021/123456/109699?checkedby:iptvcat.com
+#EXTINF:-1,KSA Sport 3 4K
+http://stariptv.org:8080/wael2021/123456/97807?checkedby:iptvcat.com
+#EXTINF:-1,KSA.KSA Sports 1
+http://stariptv.org:8080/wael2021/123456/45200?checkedby:iptvcat.com
+#EXTINF:-1,KSA.KSA Sports 2
+http://stariptv.org:8080/wael2021/123456/45199?checkedby:iptvcat.com
+#EXTINF:-1,KSA.KSA Sports 2 HD
+http://stariptv.org:8080/wael2021/123456/93029?checkedby:iptvcat.com
+#EXTINF:-1,KSA.KSA Sports 3 HD
+http://stariptv.org:8080/wael2021/123456/97712?checkedby:iptvcat.com
+#EXTINF:-1,KSA.KSA Sports 4
+http://stariptv.org:8080/wael2021/123456/45197?checkedby:iptvcat.com
+#EXTINF:-1,KSA.KSA Sports 4 HD
+http://stariptv.org:8080/wael2021/123456/97713?checkedby:iptvcat.com
+#EXTINF:-1,Moja TV Sport HD
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/21170?checkedby:iptvcat.com
+#EXTINF:-1,Moja TV Sport HD
+http://tv.romanija.xyz:8080/22maky/test111/21170?checkedby:iptvcat.com
+#EXTINF:-1,NBA TV
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/182?checkedby:iptvcat.com
+#EXTINF:-1,NBA TV
+http://tv.romanija.xyz:8080/22maky/test111/182?checkedby:iptvcat.com
+#EXTINF:-1,Nile Sport
+http://stariptv.org:8080/wael2021/123456/97824?checkedby:iptvcat.com
+#EXTINF:-1,Nova Sport
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/132?checkedby:iptvcat.com
+#EXTINF:-1,Nova Sport
+http://tv.romanija.xyz:8080/22maky/test111/132?checkedby:iptvcat.com
+#EXTINF:-1,OSN GINX Esports VIP
+http://stariptv.org:8080/wael2021/123456/92317?checkedby:iptvcat.com
+#EXTINF:-1,Oman Sport HD
+http://stariptv.org:8080/wael2021/123456/97877?checkedby:iptvcat.com
+#EXTINF:-1,On Time Sport HD 1
+http://stariptv.org:8080/wael2021/123456/97820?checkedby:iptvcat.com
+#EXTINF:-1,SK Golf
+http://stariptv.org:8080/wael2021/123456/101908?checkedby:iptvcat.com
+#EXTINF:-1,SLO: Sport TV 2 HD
+http://stariptv.org:8080/wael2021/123456/101929?checkedby:iptvcat.com
+#EXTINF:-1,SLO: Sport TV 3 HD
+http://stariptv.org:8080/wael2021/123456/101930?checkedby:iptvcat.com
+#EXTINF:-1,Sharjah Sport HD
+http://stariptv.org:8080/wael2021/123456/141797?checkedby:iptvcat.com
+#EXTINF:-1,Sport Klub 1
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/137?checkedby:iptvcat.com
+#EXTINF:-1,Sport Klub 1
+http://tv.romanija.xyz:8080/22maky/test111/137?checkedby:iptvcat.com
+#EXTINF:-1,Sport Klub 1 HR
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/134?checkedby:iptvcat.com
+#EXTINF:-1,Sport Klub 1 HR
+http://tv.romanija.xyz:8080/22maky/test111/134?checkedby:iptvcat.com
+#EXTINF:-1,Sport Klub 10
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/146?checkedby:iptvcat.com
+#EXTINF:-1,Sport Klub 10
+http://tv.romanija.xyz:8080/22maky/test111/146?checkedby:iptvcat.com
+#EXTINF:-1,Sport Klub 2
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/138?checkedby:iptvcat.com
+#EXTINF:-1,Sport Klub 2
+http://tv.romanija.xyz:8080/22maky/test111/138?checkedby:iptvcat.com
+#EXTINF:-1,Sport Klub 2 HR
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/135?checkedby:iptvcat.com
+#EXTINF:-1,Sport Klub 2 HR
+http://tv.romanija.xyz:8080/22maky/test111/135?checkedby:iptvcat.com
+#EXTINF:-1,Sport Klub 3
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/139?checkedby:iptvcat.com
+#EXTINF:-1,Sport Klub 3
+http://tv.romanija.xyz:8080/22maky/test111/139?checkedby:iptvcat.com
+#EXTINF:-1,Sport Klub 3 HR
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/136?checkedby:iptvcat.com
+#EXTINF:-1,Sport Klub 3 HR
+http://tv.romanija.xyz:8080/22maky/test111/136?checkedby:iptvcat.com
+#EXTINF:-1,Sport Klub 4
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/140?checkedby:iptvcat.com
+#EXTINF:-1,Sport Klub 4
+http://tv.romanija.xyz:8080/22maky/test111/140?checkedby:iptvcat.com
+#EXTINF:-1,IMPACT! Wrestling
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Insight TV
+https://insight-localnow.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,LN Sports
+https://d39jokgb64z0et.cloudfront.net/dist/localnow/86/hls/master/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Local Now Sports LN (720p)
+https://linear-86.frequency.stream/dist/localnow/86/hls/master/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,OF-TV Offenbach
+https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8?&ref=www.of-tv.de&seid=166119&checkedby:iptvcat.com
+#EXTINF:-1,OF-TV Offenbach
+https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Oman Sports
+http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Outside TV
+https://outsidetv-outside-localnow.amagi.tv/localnow.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,SPORT | Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Red Bull TV
+https://i.mjh.nz/au/Melbourne/tv.redbull.tv.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Red Bull TV
+http://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Red Bull TV
+https://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Red Bull TV (720p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8&checkedby:iptvcat.com
+#EXTINF:-1,SPORT 1 HD
+http://stariptv.org:8080/basma2022/123456/15560?checkedby:iptvcat.com
+#EXTINF:-1,SPORT 1 HQ
+http://stariptv.org:8080/basma2022/123456/2755?checkedby:iptvcat.com
+#EXTINF:-1,SPORT 1 PREMIUM FHD
+http://stariptv.org:8080/basma2022/123456/141563?checkedby:iptvcat.com
+#EXTINF:-1,SPORT 1 PREMIUM HQ
+http://stariptv.org:8080/basma2022/123456/2762?checkedby:iptvcat.com
+#EXTINF:-1,SPORT 2 HD
+http://stariptv.org:8080/basma2022/123456/15559?checkedby:iptvcat.com
+#EXTINF:-1,SPORT 2 HQ
+http://stariptv.org:8080/basma2022/123456/2756?checkedby:iptvcat.com
+#EXTINF:-1,SPORT 2 PREMIUM FHD
+http://stariptv.org:8080/basma2022/123456/141564?checkedby:iptvcat.com
+#EXTINF:-1,SPORT 2 PREMIUM HQ
+http://stariptv.org:8080/basma2022/123456/2763?checkedby:iptvcat.com
+#EXTINF:-1,SPORT 2 XTRA HQ
+http://stariptv.org:8080/basma2022/123456/132028?checkedby:iptvcat.com
+#EXTINF:-1,SPORT 3 HD
+http://stariptv.org:8080/basma2022/123456/15558?checkedby:iptvcat.com
+#EXTINF:-1,SPORT 3 HQ
+http://stariptv.org:8080/basma2022/123456/2757?checkedby:iptvcat.com
+#EXTINF:-1,SPORT 3 PREMIUM FHD
+http://stariptv.org:8080/basma2022/123456/141565?checkedby:iptvcat.com
+#EXTINF:-1,SPORT 3 PREMIUM HQ
+http://stariptv.org:8080/basma2022/123456/2766?checkedby:iptvcat.com
+#EXTINF:-1,SPORT 4 (AR)
+http://fasttvuk.com:2086/muhammad1/muhammad1/79304?checkedby:iptvcat.com
+#EXTINF:-1,SPORT 4 HD
+http://stariptv.org:8080/basma2022/123456/15557?checkedby:iptvcat.com
+#EXTINF:-1,SPORT 5 HD
+http://stariptv.org:8080/basma2022/123456/15556?checkedby:iptvcat.com
+#EXTINF:-1,SPORT 5 HQ
+http://stariptv.org:8080/basma2022/123456/2759?checkedby:iptvcat.com
+#EXTINF:-1,SPORT 6 HD
+http://stariptv.org:8080/basma2022/123456/15555?checkedby:iptvcat.com
+#EXTINF:-1,SPORT 6 HQ
+http://stariptv.org:8080/basma2022/123456/2760?checkedby:iptvcat.com
+#EXTINF:-1,SPORT 7 (AR)
+http://fasttvuk.com:2086/muhammad1/muhammad1/79307?checkedby:iptvcat.com
+#EXTINF:-1,SPORT 7 HD
+http://stariptv.org:8080/basma2022/123456/15720?checkedby:iptvcat.com
+#EXTINF:-1,SPORT | ATG TV
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,SPORT | Dubai Sports
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,SPORT | Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,SPORT | MMA Junkie
+https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,SPORT | Rugby Men's Sevens
+https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,SPORT | Rugby Women's Sevens
+https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,SPORT | Rugby World TV
+https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,SPORT | TVRI Sports
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,SPORT | Turkmenistan Sport
+http://alpha.tv.online.tm/hls/ch004_720/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,SPORT | World Of Free Sports TV
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,SPORT | World Poker Tour
+https://dai.google.com/linear/hls/event/V7AWGB66R3avQhuIFaxmjw/master.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,SPORT EXTRA 1 HD
+http://stariptv.org:8080/basma2022/123456/15721?checkedby:iptvcat.com
+#EXTINF:-1,SPORT EXTRA 2 HD
+http://stariptv.org:8080/basma2022/123456/15722?checkedby:iptvcat.com
+#EXTINF:-1,SPORT News HD
+http://stariptv.org:8080/basma2022/123456/22185?checkedby:iptvcat.com
+#EXTINF:-1,SPORT SPORT HD
+http://stariptv.org:8080/basma2022/123456/22186?checkedby:iptvcat.com
+#EXTINF:-1,SPORT Sports HD2 FHD
+http://stariptv.org:8080/basma2022/123456/141567?checkedby:iptvcat.com
+#EXTINF:-1,SPORT TV 1 PT
+http://93.152.174.144:4000/play/sporttv1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,AUTO MOTOR SPORT HD
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFMUDxrZKFUXgBebeD1QthnM?checkedby:iptvcat.com
+#EXTINF:-1,DIEMA SPORT 1
+http://stariptv.org:8080/wael2021/123456/16070?checkedby:iptvcat.com
+#EXTINF:-1,DIEMA SPORT 1
+http://stariptv.org:8080/hakim2021/123456/16070?checkedby:iptvcat.com
+#EXTINF:-1,DIEMA SPORT 2
+http://stariptv.org:8080/hakim2021/123456/16068?checkedby:iptvcat.com
+#EXTINF:-1,DIEMA SPORT 2
+http://stariptv.org:8080/wael2021/123456/16068?checkedby:iptvcat.com
+#EXTINF:-1,Diema Sport 2 HD
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFIoaP-BBLhmJUXSXdlH2KV0?checkedby:iptvcat.com
+#EXTINF:-1,Diema Sport 2 HD
+http://78.83.191.18:8000/play/a077?checkedby:iptvcat.com
+#EXTINF:-1,Diema Sport 3 HD
+http://78.83.191.18:8000/play/a07e?checkedby:iptvcat.com
+#EXTINF:-1,Diema Sport HD
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFF0TVNEgWEeFdA9-D_g2zR4?checkedby:iptvcat.com
+#EXTINF:-1,Diema Sport HD
+http://78.83.191.18:8000/play/a076?checkedby:iptvcat.com
+#EXTINF:-1,Eurosport
+http://78.83.191.18:8000/play/a05y?checkedby:iptvcat.com
+#EXTINF:-1,Eurosport 2
+http://78.83.191.18:8000/play/a04b?checkedby:iptvcat.com
+#EXTINF:-1,MAX Sport 1 HD
+http://78.83.191.18:8000/play/a073?checkedby:iptvcat.com
+#EXTINF:-1,MAX Sport 2 HD
+http://78.83.191.18:8000/play/a074?checkedby:iptvcat.com
+#EXTINF:-1,MAX Sport 3 HD
+http://78.83.191.18:8000/play/a075?checkedby:iptvcat.com
+#EXTINF:-1,MAX Sport 4 HD
+http://78.83.191.18:8000/play/a07f?checkedby:iptvcat.com
+#EXTINF:-1,Max Sport 1 HD
+http://stariptv.org:8080/wael2021/123456/86491?checkedby:iptvcat.com
+#EXTINF:-1,Max Sport 1 HD
+http://stariptv.org:8080/hakim2021/123456/86491?checkedby:iptvcat.com
+#EXTINF:-1,Max Sport 2 HD
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFISfJjJsLAPcmmWxuza1tzo?checkedby:iptvcat.com
+#EXTINF:-1,Max Sport 2 HD
+http://stariptv.org:8080/hakim2021/123456/86492?checkedby:iptvcat.com
+#EXTINF:-1,Max Sport 4 HD
+http://stariptv.org:8080/wael2021/123456/86494?checkedby:iptvcat.com
+#EXTINF:-1,NOVA Sport
+http://stariptv.org:8080/hakim2021/123456/15870?checkedby:iptvcat.com
+#EXTINF:-1,NOVA Sport
+http://stariptv.org:8080/wael2021/123456/15870?checkedby:iptvcat.com
+#EXTINF:-1,Nova Sport
+http://78.83.191.18:8000/play/a04a?checkedby:iptvcat.com
+#EXTINF:-1,Nova Sport HD
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFEixTxTJcmbVmw0-J-Sf8PU?checkedby:iptvcat.com
+#EXTINF:-1,CanBangla TV (1080p) [Not 24/7]
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/canbanglatv.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,DUBAI SPORTS 1 (1920×1080)
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,SPORT | Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,DUBAI SPORTS 3 (1920×1080)
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,FOX Sports 1 HD Eredivisie
+http://stariptv.org:8080/hakim2021/123456/57504?checkedby:iptvcat.com
+#EXTINF:-1,FOX Sports 1 HD Eredivisie
+http://stariptv.org:8080/wael2021/123456/57504?checkedby:iptvcat.com
+#EXTINF:-1,FOX Sports 2 HD
+http://stariptv.org:8080/hakim2021/123456/57503?checkedby:iptvcat.com
+#EXTINF:-1,FOX Sports 2 HD
+http://stariptv.org:8080/wael2021/123456/57503?checkedby:iptvcat.com
+#EXTINF:-1,FOX Sports 3 HD Eredivisie
+http://stariptv.org:8080/wael2021/123456/57502?checkedby:iptvcat.com
+#EXTINF:-1,FOX Sports 4 HD
+http://stariptv.org:8080/wael2021/123456/57501?checkedby:iptvcat.com
+#EXTINF:-1,FOX Sports 4 HD
+http://stariptv.org:8080/hakim2021/123456/57501?checkedby:iptvcat.com
+#EXTINF:-1,Ziggo Sport Racing HD
+http://stariptv.org:8080/hakim2021/123456/57441?checkedby:iptvcat.com
+#EXTINF:-1,Ziggo Sport Racing HD
+http://stariptv.org:8080/wael2021/123456/57441?checkedby:iptvcat.com
+#EXTINF:-1,Ziggo Sport Select HD
+http://stariptv.org:8080/hakim2021/123456/57440?checkedby:iptvcat.com
+#EXTINF:-1,Eurosport Norge FHD
+http://stariptv.org:8080/wael2021/123456/86562?checkedby:iptvcat.com
+#EXTINF:-1,SPORT | Oman Sports
+http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,NBA TV
+http://myhosting.one:8080/arsenal1/arsenal1/261230?checkedby:iptvcat.com
+#EXTINF:-1,NBATV
+http://stariptv.org:8080/wael2021/123456/148449?checkedby:iptvcat.com
+#EXTINF:-1,NBATV
+http://stariptv.org:8080/hakim2021/123456/148449?checkedby:iptvcat.com
+#EXTINF:-1,NFL HD
+http://stariptv.org:8080/wael2021/123456/148448?checkedby:iptvcat.com
+#EXTINF:-1,NFL HD
+http://stariptv.org:8080/hakim2021/123456/148448?checkedby:iptvcat.com
+#EXTINF:-1,NFL Network
+http://myhosting.one:8080/arsenal1/arsenal1/261227?checkedby:iptvcat.com
+#EXTINF:-1,NFL Network 2
+http://myhosting.one:8080/arsenal1/arsenal1/261226?checkedby:iptvcat.com
+#EXTINF:-1,NFL RedZone
+http://myhosting.one:8080/arsenal1/arsenal1/261229?checkedby:iptvcat.com
+#EXTINF:-1,Qazsport HD
+http://92.46.127.146:8080/qazsport/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,SportsGrid
+https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,SportsGrid
+http://myhosting.one:8080/arsenal1/arsenal1/261220?checkedby:iptvcat.com
+#EXTINF:-1,beIN SPORTS XTRA
+http://myhosting.one:8080/arsenal1/arsenal1/261242?checkedby:iptvcat.com
+#EXTINF:-1,beIN Sports
+http://myhosting.one:8080/arsenal1/arsenal1/261241?checkedby:iptvcat.com
+#EXTINF:-1,1+1 Sport
+https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8?token=AnonymousTV&checkedby:iptvcat.com
+#EXTINF:-1,AL RABIAA IRAQ SPORT
+http://stariptv.org:8080/wael2021/123456/143562?checkedby:iptvcat.com
+#EXTINF:-1,Abu Dhabi Sports 1
+http://stariptv.org:8080/wael2021/123456/97809?checkedby:iptvcat.com
+#EXTINF:-1,Abu Dhabi Sports 2
+http://stariptv.org:8080/wael2021/123456/97810?checkedby:iptvcat.com
+#EXTINF:-1,Arena Esport
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/21503?checkedby:iptvcat.com
+#EXTINF:-1,Arena Esport
+http://tv.romanija.xyz:8080/22maky/test111/21503?checkedby:iptvcat.com
+#EXTINF:-1,Arena Sport 1
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/150?checkedby:iptvcat.com
+#EXTINF:-1,Arena Sport 1
+http://tv.romanija.xyz:8080/22maky/test111/150?checkedby:iptvcat.com
+#EXTINF:-1,Arena Sport 1 BH
+http://stariptv.org:8080/wael2021/123456/101886?checkedby:iptvcat.com
+#EXTINF:-1,Arena Sport 1 BiH
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/165?checkedby:iptvcat.com
+#EXTINF:-1,Arena Sport 1 BiH
+http://tv.romanija.xyz:8080/22maky/test111/165?checkedby:iptvcat.com
+#EXTINF:-1,Arena Sport 1 HR
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/159?checkedby:iptvcat.com
+#EXTINF:-1,Arena Sport 1 HR
+http://tv.romanija.xyz:8080/22maky/test111/159?checkedby:iptvcat.com
+#EXTINF:-1,Arena Sport 1 HR
+http://stariptv.org:8080/wael2021/123456/101896?checkedby:iptvcat.com
+#EXTINF:-1,Arena Sport 1 HR HD
+http://stariptv.org:8080/wael2021/123456/101897?checkedby:iptvcat.com
+#EXTINF:-1,Arena Sport 1 Premium
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/21442?checkedby:iptvcat.com
+#EXTINF:-1,Arena Sport 1 Premium
+http://tv.romanija.xyz:8080/22maky/test111/21442?checkedby:iptvcat.com
+#EXTINF:-1,Arena Sport 1 SR
+http://stariptv.org:8080/wael2021/123456/101887?checkedby:iptvcat.com
+#EXTINF:-1,Arena Sport 1 SR HD
+http://stariptv.org:8080/wael2021/123456/101888?checkedby:iptvcat.com
+#EXTINF:-1,Arena Sport 10 HR
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/21169?checkedby:iptvcat.com
+#EXTINF:-1,Arena Sport 10 HR
+http://tv.romanija.xyz:8080/22maky/test111/21169?checkedby:iptvcat.com
+#EXTINF:-1,Arena Sport 2
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/151?checkedby:iptvcat.com
+#EXTINF:-1,Arena Sport 2
+http://tv.romanija.xyz:8080/22maky/test111/151?checkedby:iptvcat.com
+#EXTINF:-1,Arena Sport 2 HR HD
+http://stariptv.org:8080/wael2021/123456/101899?checkedby:iptvcat.com
+#EXTINF:-1,Arena Sport 2 Premium
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/21443?checkedby:iptvcat.com
+#EXTINF:-1,Arena Sport 2 Premium
+http://tv.romanija.xyz:8080/22maky/test111/21443?checkedby:iptvcat.com
+#EXTINF:-1,Arena Sport 2 SD
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/156?checkedby:iptvcat.com
+#EXTINF:-1,Arena Sport 2 SD
+http://tv.romanija.xyz:8080/22maky/test111/156?checkedby:iptvcat.com
+#EXTINF:-1,Arena Sport 2 SR HD
+http://stariptv.org:8080/wael2021/123456/101890?checkedby:iptvcat.com
+#EXTINF:-1,Arena Sport 3
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/152?checkedby:iptvcat.com
+#EXTINF:-1,Arena Sport 3
+http://tv.romanija.xyz:8080/22maky/test111/152?checkedby:iptvcat.com
+#EXTINF:-1,Arena Sport 3 HR
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/161?checkedby:iptvcat.com
+#EXTINF:-1,Arena Sport 3 HR
+http://tv.romanija.xyz:8080/22maky/test111/161?checkedby:iptvcat.com
+#EXTINF:-1,SportsGrid
+https://sportsgrid-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-sportsgrid-plex/CDN/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Sportsgrid
+https://sportsgrid-vizio.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Sportsgrid
+https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Sportskool TV
+https://a.jsrdn.com/broadcast/fabeab4b08/+0000/c.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,TIGO SPORT HD
+http://tecnotv.club/got/smtv3.php?c=800&checkedby:iptvcat.com
+#EXTINF:-1,TVS Classic Sports (720p)
+http://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,TVS Pinball Network (1080p)
+https://rpn1.bozztv.com/36bay2/gusa-TVSCartoonNetwork/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,TVS Sports (960p)
+https://rpn1.bozztv.com/36bay2/gusa-tvssports/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,TVS Sports Bureau (720p)
+https://rpn1.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,TVS Women Sports (480p)
+https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Trace Sport Stars (Australia)
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Turkmenistan Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8&checkedby:iptvcat.com
+#EXTINF:-1,VIP SPORTS: BEIN SPORTS 3 PREMIUM FHD (ARABIC)
+http://fasttvuk.com:2086/muhammad1/muhammad1/240234?checkedby:iptvcat.com
+#EXTINF:-1,Wired2Fish
+https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,World Of Free Sports TV
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,tv2 - Sport (720p)
+https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Астрахань.Ru Sport
+https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Астрахань.Ru Sport
+https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Астрахань.Ru Sport
+https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Астрахань.Ru Sport (1080p)
+https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Матч! ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&checkedby:iptvcat.com
+#EXTINF:-1,ТРК Репортер
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-sub/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Фан Спорт.
+https://live-k2309-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Abu Dhabi Sports1
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1&checkedby:iptvcat.com
+#EXTINF:-1,Abu Dhabi Sports 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports3&checkedby:iptvcat.com
+#EXTINF:-1,Abu Dhabi Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports4&checkedby:iptvcat.com
+#EXTINF:-1,迪拜赛马俱乐部
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,SPORT | Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Dubai Racing 2
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Dubai Sports
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports&checkedby:iptvcat.com
+#EXTINF:-1,Dubai Sports 1
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports1&checkedby:iptvcat.com
+#EXTINF:-1,Dubai Sports 2
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports2&checkedby:iptvcat.com
+#EXTINF:-1,Dubai Sports 3
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports3&checkedby:iptvcat.com
+#EXTINF:-1,BT SPORTS ESPN HD
+http://stariptv.org:8080/wael2021/123456/9258?checkedby:iptvcat.com
+#EXTINF:-1,BT Sport 1
+http://stariptv.org:8080/hakim2021/123456/9342?checkedby:iptvcat.com
+#EXTINF:-1,BT Sport 1
+http://stariptv.org:8080/wael2021/123456/9342?checkedby:iptvcat.com
+#EXTINF:-1,BT Sport 2
+http://stariptv.org:8080/hakim2021/123456/9341?checkedby:iptvcat.com
+#EXTINF:-1,BT Sport 2
+http://stariptv.org:8080/wael2021/123456/9341?checkedby:iptvcat.com
+#EXTINF:-1,BT Sport 2 HD
+http://45.153.35.224:8000/play/a01p?checkedby:iptvcat.com
+#EXTINF:-1,BT Sport 2 HD
+http://45.153.35.224:8000/play/a007?checkedby:iptvcat.com
+#EXTINF:-1,BT Sport 3
+http://stariptv.org:8080/hakim2021/123456/9272?checkedby:iptvcat.com
+#EXTINF:-1,BT Sport 3
+http://stariptv.org:8080/wael2021/123456/9272?checkedby:iptvcat.com
+#EXTINF:-1,BT Sport ESPN
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/199569?checkedby:iptvcat.com
+#EXTINF:-1,BTSpt// ESPNHD
+http://45.153.35.224:8000/play/a008?checkedby:iptvcat.com
+#EXTINF:-1,BTSpt//ESPNHD
+http://45.153.35.224:8000/play/a01q?checkedby:iptvcat.com
+#EXTINF:-1,EUROSPORT 1
+http://stariptv.org:8080/wael2021/123456/16127?checkedby:iptvcat.com
+#EXTINF:-1,EUROSPORT 2
+http://stariptv.org:8080/wael2021/123456/16126?checkedby:iptvcat.com
+#EXTINF:-1,Eir Sport 1
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/199564?checkedby:iptvcat.com
+#EXTINF:-1,Eir Sport 1
+http://stariptv.org:8080/hakim2021/123456/9356?checkedby:iptvcat.com
+https://iptv-org.github.io/iptv/countries/aw.m3u
+https://iptv-org.github.io/iptv/countries/jm.m3u
+https://iptv-org.github.io/iptv/countries/cw.m3u
