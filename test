@@ -1,108 +1,78 @@
 #EXTM3U
-#EXTINF:-1,NL| NPO 1 FHD
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/3726
-#EXTINF:-1,NL| NPO 2 FHD
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/3725
-#EXTINF:-1,NL| NPO 3 FULL HD
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/3724
-#EXTINF:-1,NL| NPO EXTRA 1 HD
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/19739
-#EXTINF:-1,NL| NPO EXTRA 2 HD
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/19740
-#EXTINF:-1,NL| NPO ZAP/EXTRA HD
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/19738
-#EXTINF:-1,NL| NPO NIEUWS HD
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/12813
-#EXTINF:-1,NL| NPO POLITIEK HD
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/12814
-#EXTINF:-1,NL| RTL 4 FULL HD
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/3730
+#EXTINF:-1,NL| NPO 1 HD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/976
+#EXTINF:-1,NL| NPO 2 HD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/974
+#EXTINF:-1,NL| NPO 3 HD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/973
+#EXTINF:-1,NL| RTL 4 HD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/968
 #EXTINF:-1,NL| RTL 5 HD
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/3729
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/967
 #EXTINF:-1,NL| SBS 6 HD
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/3721
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/961
 #EXTINF:-1,NL| RTL 7 HD
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/3728
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/966
 #EXTINF:-1,NL| RTL 8 HD
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/3727
-#EXTINF:-1,NL| NET 5 HD
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/3723
-#EXTINF:-1,NL| RTL CRIME HD
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/12823
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/1019
+#EXTINF:-1,NL| RTL MISDAAD HD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/2724
 #EXTINF:-1,NL| RTL LOUNGE HD
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/3696
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/1175
 #EXTINF:-1,NL| RTL Z HD
 http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/1272
 #EXTINF:-1,NL| SBS 9 HD
 http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/960
-#EXTINF:-1,NL| VERONICA / DISNEY XD
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/3705
-#EXTINF:-1,NL| FOX HD
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/3701
-#EXTINF:-1,NL| E! HD
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/12825
-#EXTINF:-1,NL| VICELAND HD
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/12827
-#EXTINF:-1,NL| FILM ACTION HD
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/3717
-#EXTINF:-1,NL| FILM 1 DRAMA HD
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/8575
-#EXTINF:-1,NL| FILM 1 FAMILY HD
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/8576
-#EXTINF:-1,NL| FILM 1 PREMIERE HD
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/8577
-#EXTINF:-1,NL| DISCOVERY CHANNEL HD
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/3700
-#EXTINF:-1,NL| NATIONAL GEOGRAPHIC HD
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/3699
-#EXTINF:-1,NL| NATIONAL GEO WILD HD
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/3698
-#EXTINF:-1,NL| 24 KITCHEN HD
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/12826
+#EXTINF:-1,NL| VERONICA HD / DISNEY XD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/950
+#EXTINF:-1,NL: Fox HD
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1266
+#EXTINF:-1,NL: Film1 Actie
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1267
+#EXTINF:-1,NL: Film1 Premiere
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1268
+#EXTINF:-1,NL: Film1 Drama
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1269
+#EXTINF:-1,NL: Film1 Family
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1270
+#EXTINF:-1,NL: Discovery HD
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1271
+#EXTINF:-1,NL: Discovery Science HD
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1272
 #EXTINF:-1,NL: Spike
 http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1274
-#EXTINF:-1,NL| NICK TOONS HD
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/3702
-#EXTINF:-1,NL| NICKELODEON HD
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/3703
-#EXTINF:-1,NL| DISNEY CHANNEL HD
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/3707
-#EXTINF:-1,NL| BABY TV HD
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/12819
-#EXTINF:-1,NL| RTL TELEKIDZ HD
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/19708
-#EXTINF:-1,NL| CARTOON NETWORK HD
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/12816
-#EXTINF:-1,NL| JIMJAM HD
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/19707
-#EXTINF:-1,NL| ZIGGO SPORT GOLF HD
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/3714
-#EXTINF:-1,NL| ZIGGO SPORT SELECT HD
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/3715
+#EXTINF:-1,NL: Nick Jr.
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1277
+#EXTINF:-1,NL: Nicktoons
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1279
+#EXTINF:-1,NL| ZIGGO SPORT SELECTEER HD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/956
 #EXTINF:-1,NL| ZIGGO SPORT VOETBAL HD
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/3716
-#EXTINF:-1,NL| ZIGGO SPORT 1 RACING HD
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/19715
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/1015
+#EXTINF:-1,NL| ZIGGO SPORT GOLF HD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/957
+#EXTINF:-1,NL| ZIGGO SPORT RACING HD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/1016
 #EXTINF:-1,NL| ZIGGO SPORT DOCU HD
 http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/26217
 #EXTINF:-1,NL| ZIGGO SPORT TENNIS HD
 http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/26218
-#EXTINF:-1,NL| ESPN 1 FHD
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/3713
-#EXTINF:-1,NL| ESPN 2 FHD
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/3712
-#EXTINF:-1,NL| ESPN 3 FHD
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/3711
-#EXTINF:-1,NL| ESPN 4 FHD
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/3710
-#EXTINF:-1,NL|  UFC [SPECIAL EVENTS]
+#EXTINF:-1,NL| UFC [SPECIALE EVENEMENTEN]
 http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/456493
-#EXTINF:-1,NL| GLORY 80 [19-03-2022]
+#EXTINF:-1,NL| GLORIE 80 [19-03-2022]
 http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/398045
 #EXTINF:-1,NL| EUROSPORT 1 HD
 http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/998
 #EXTINF:-1,NL| EUROSPORT 2 HD
 http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/3651
+#EXTINF:-1,NL| ESPN 1 HD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/1026
+#EXTINF:-1,NL| ESPN  2 HD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/1025
+#EXTINF:-1,NL| ESPN  3 HD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/1024
+#EXTINF:-1,NL| ESPN 4 HD
+http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/989
 #EXTINF:-1,NL| VIAPLAY 1 EXTRA F1 HD
 http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/883496
 #EXTINF:-1,NL| VIAPLAY AKTIE 1 FHD
@@ -183,56 +153,18 @@ http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/1013
 http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1264
 #EXTINF:-1,NL: Fox HD
 http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1266
-#EXTINF:-1,NL| REDBOX ACTIE 1
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/57199
-#EXTINF:-1,NL| REDBOX ACTIE 2
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/57201
-#EXTINF:-1,NL| REDBOX ANIMATIE 1
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/57181
-#EXTINF:-1,NL| REDBOX ANIMATIE 2
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/57182
-#EXTINF:-1,NL| REDBOX ANIMATIE 3
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/57183
-#EXTINF:-1,NL| REDBOX BRANDWEERMAN SAM
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/57187
-#EXTINF:-1,NL| REDBOX BUURMAN EN BUURMAN
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/57185
-#EXTINF:-1,NL| REDBOX CONCERT
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/57202
-#EXTINF:-1,NL| REDBOX DOCU
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/57191
-#EXTINF:-1,NL| REDBOX DRAMA 1
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/57193
-#EXTINF:-1,NL| REDBOX DRAMA 2
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/57194
-#EXTINF:-1,NL| REDBOX FAMILY
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/57192
-#EXTINF:-1,NL| REDBOX HELDEN V/D STAD
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/57186
-#EXTINF:-1,NL| REDBOX HORROR 1
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/57197
-#EXTINF:-1,NL| REDBOX HORROR 2
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/57198
-#EXTINF:-1,NL| REDBOX KOMEDIE 1
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/57195
-#EXTINF:-1,NL| REDBOX KOMEDIE 2
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/57196
-#EXTINF:-1,NL| REDBOX NIEUWE FILMS
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/57175
-#EXTINF:-1,NL| REDBOX PEPPA PiG
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/57188
-#EXTINF:-1,NL| REDBOX SCI FI 1
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/57189
-#EXTINF:-1,NL| REDBOX SCI FI 2
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/57190
-#EXTINF:-1,NL| REDBOX SHAUN THE SHEEP
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/57184
-#EXTINF:-1,NL| REDBOX THRILLER 1
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/57177
-#EXTINF:-1,NL| REDBOX THRILLER 2
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/57178
-#EXTINF:-1,NL| REDBOX THRILLER 3
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/57179
+#EXTINF:-1,NL: Film1 Action
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1267
+#EXTINF:-1,NL: Film1 Premiere
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1268
+#EXTINF:-1,NL: Film1 Drama
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1269
+#EXTINF:-1,NL: Film1 Family
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1270
+#EXTINF:-1,NL: Discovery HD
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1271
+#EXTINF:-1,NL: Discovery Science HD
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1272
 #EXTINF:-1,NL: Spike
 http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1274
 #EXTINF:-1,NL: Nick Jr.
@@ -2044,7 +1976,7 @@ https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8?checked
 https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,Астрахань.Ru Sport
 https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,Астрахань.Ru Sport (1080p)
+#EXTINF:-1,Астрахань. Ru Sport (1080p)
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,Матч! ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&checkedby:iptvcat.com
@@ -2054,9 +1986,9 @@ http://cdn1.live-tv.od.ua:8081/31chod/31chod-sub/playlist.m3u8?checkedby:iptvcat
 https://live-k2309-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,Abu Dhabi Sports1
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1&checkedby:iptvcat.com
-#EXTINF:-1,Abu Dhabi Sports 3
+#EXTINF:-1,Abu Dhabi Sport 3
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports3&checkedby:iptvcat.com
-#EXTINF:-1,Abu Dhabi Sports 4
+#EXTINF:-1,Abu Dhabi Sport 4
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports4&checkedby:iptvcat.com
 #EXTINF:-1,迪拜赛马俱乐部
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8?checkedby:iptvcat.com
@@ -2066,35 +1998,35 @@ http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8?check
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,Dubai Sports
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports&checkedby:iptvcat.com
-#EXTINF:-1,Dubai Sports 1
+#EXTINF:-1,Dubai Sport 1
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports1&checkedby:iptvcat.com
-#EXTINF:-1,Dubai Sports 2
+#EXTINF:-1,Dubai Sport 2
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports2&checkedby:iptvcat.com
-#EXTINF:-1,Dubai Sports 3
+#EXTINF:-1,Dubai Sport 3
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports3&checkedby:iptvcat.com
-#EXTINF:-1,BT SPORTS ESPN HD
+#EXTINF:-1, BT SPORTS ESPN HD
 http://stariptv.org:8080/wael2021/123456/9258?checkedby:iptvcat.com
-#EXTINF:-1,BT Sport 1
+#EXTINF:-1, BT Sport 1
 http://stariptv.org:8080/hakim2021/123456/9342?checkedby:iptvcat.com
-#EXTINF:-1,BT Sport 1
+#EXTINF:-1, BT Sport 1
 http://stariptv.org:8080/wael2021/123456/9342?checkedby:iptvcat.com
-#EXTINF:-1,BT Sport 2
+#EXTINF:-1, BT Sport 2
 http://stariptv.org:8080/hakim2021/123456/9341?checkedby:iptvcat.com
-#EXTINF:-1,BT Sport 2
+#EXTINF:-1, BT Sport 2
 http://stariptv.org:8080/wael2021/123456/9341?checkedby:iptvcat.com
-#EXTINF:-1,BT Sport 2 HD
+#EXTINF: -1, BT Sport 2 HD
 http://45.153.35.224:8000/play/a01p?checkedby:iptvcat.com
-#EXTINF:-1,BT Sport 2 HD
+#EXTINF: -1, BT Sport 2 HD
 http://45.153.35.224:8000/play/a007?checkedby:iptvcat.com
-#EXTINF:-1,BT Sport 3
+#EXTINF:-1, BT Sport 3
 http://stariptv.org:8080/hakim2021/123456/9272?checkedby:iptvcat.com
-#EXTINF:-1,BT Sport 3
+#EXTINF:-1, BT Sport 3
 http://stariptv.org:8080/wael2021/123456/9272?checkedby:iptvcat.com
-#EXTINF:-1,BT Sport ESPN
+#EXTINF:-1, BT Sport ESPN
 http://trabzontv.xyz:8080/CIFTCI/CIFTCI/199569?checkedby:iptvcat.com
-#EXTINF:-1,BTSpt// ESPNHD
+#EXTINF: -1, BTSpt / / ESPNHD
 http://45.153.35.224:8000/play/a008?checkedby:iptvcat.com
-#EXTINF:-1,BTSpt//ESPNHD
+#EXTINF: -1, BTSpt / / ESPNHD
 http://45.153.35.224:8000/play/a01q?checkedby:iptvcat.com
 #EXTINF:-1,EUROSPORT 1
 http://stariptv.org:8080/wael2021/123456/16127?checkedby:iptvcat.com
