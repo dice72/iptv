@@ -15,7 +15,7 @@ http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/961
 http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/966
 #EXTINF:-1,NL| RTL 8 HD
 http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/1019
-#EXTINF:-1,NL| RTL MISDAAD HD
+#EXTINF:-1,NL| RTL CRIME HD
 http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/2724
 #EXTINF:-1,NL| RTL LOUNGE HD
 http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/1175
@@ -23,11 +23,11 @@ http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/1175
 http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/1272
 #EXTINF:-1,NL| SBS 9 HD
 http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/960
-#EXTINF:-1,NL| VERONICA HD / DISNEY XD
+#EXTINF:-1,NL| VERONICA HD /DISNEY XD
 http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/950
 #EXTINF:-1,NL: Fox HD
 http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1266
-#EXTINF:-1,NL: Film1 Actie
+#EXTINF:-1,NL: Film1 Action
 http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1267
 #EXTINF:-1,NL: Film1 Premiere
 http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1268
@@ -45,7 +45,7 @@ http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1274
 http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1277
 #EXTINF:-1,NL: Nicktoons
 http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1279
-#EXTINF:-1,NL| ZIGGO SPORT SELECTEER HD
+#EXTINF:-1,NL| ZIGGO SPORT SELECT HD
 http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/956
 #EXTINF:-1,NL| ZIGGO SPORT VOETBAL HD
 http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/1015
@@ -57,9 +57,9 @@ http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/1016
 http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/26217
 #EXTINF:-1,NL| ZIGGO SPORT TENNIS HD
 http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/26218
-#EXTINF:-1,NL| UFC [SPECIALE EVENEMENTEN]
+#EXTINF:-1,NL|  UFC [SPECIAL EVENTS]
 http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/456493
-#EXTINF:-1,NL| GLORIE 80 [19-03-2022]
+#EXTINF:-1,NL| GLORY 80 [19-03-2022]
 http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/398045
 #EXTINF:-1,NL| EUROSPORT 1 HD
 http://line.linehunt.org:80/e6e62aab5e/0ca2d0f610/998
@@ -1976,7 +1976,7 @@ https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8?checked
 https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,Астрахань.Ru Sport
 https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,Астрахань. Ru Sport (1080p)
+#EXTINF:-1,Астрахань.Ru Sport (1080p)
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,Матч! ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&checkedby:iptvcat.com
@@ -1986,9 +1986,9 @@ http://cdn1.live-tv.od.ua:8081/31chod/31chod-sub/playlist.m3u8?checkedby:iptvcat
 https://live-k2309-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,Abu Dhabi Sports1
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1&checkedby:iptvcat.com
-#EXTINF:-1,Abu Dhabi Sport 3
+#EXTINF:-1,Abu Dhabi Sports 3
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports3&checkedby:iptvcat.com
-#EXTINF:-1,Abu Dhabi Sport 4
+#EXTINF:-1,Abu Dhabi Sports 4
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports4&checkedby:iptvcat.com
 #EXTINF:-1,迪拜赛马俱乐部
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8?checkedby:iptvcat.com
@@ -1998,35 +1998,35 @@ http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8?check
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,Dubai Sports
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports&checkedby:iptvcat.com
-#EXTINF:-1,Dubai Sport 1
+#EXTINF:-1,Dubai Sports 1
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports1&checkedby:iptvcat.com
-#EXTINF:-1,Dubai Sport 2
+#EXTINF:-1,Dubai Sports 2
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports2&checkedby:iptvcat.com
-#EXTINF:-1,Dubai Sport 3
+#EXTINF:-1,Dubai Sports 3
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports3&checkedby:iptvcat.com
-#EXTINF:-1, BT SPORTS ESPN HD
+#EXTINF:-1,BT SPORTS ESPN HD
 http://stariptv.org:8080/wael2021/123456/9258?checkedby:iptvcat.com
-#EXTINF:-1, BT Sport 1
+#EXTINF:-1,BT Sport 1
 http://stariptv.org:8080/hakim2021/123456/9342?checkedby:iptvcat.com
-#EXTINF:-1, BT Sport 1
+#EXTINF:-1,BT Sport 1
 http://stariptv.org:8080/wael2021/123456/9342?checkedby:iptvcat.com
-#EXTINF:-1, BT Sport 2
+#EXTINF:-1,BT Sport 2
 http://stariptv.org:8080/hakim2021/123456/9341?checkedby:iptvcat.com
-#EXTINF:-1, BT Sport 2
+#EXTINF:-1,BT Sport 2
 http://stariptv.org:8080/wael2021/123456/9341?checkedby:iptvcat.com
-#EXTINF: -1, BT Sport 2 HD
+#EXTINF:-1,BT Sport 2 HD
 http://45.153.35.224:8000/play/a01p?checkedby:iptvcat.com
-#EXTINF: -1, BT Sport 2 HD
+#EXTINF:-1,BT Sport 2 HD
 http://45.153.35.224:8000/play/a007?checkedby:iptvcat.com
-#EXTINF:-1, BT Sport 3
+#EXTINF:-1,BT Sport 3
 http://stariptv.org:8080/hakim2021/123456/9272?checkedby:iptvcat.com
-#EXTINF:-1, BT Sport 3
+#EXTINF:-1,BT Sport 3
 http://stariptv.org:8080/wael2021/123456/9272?checkedby:iptvcat.com
-#EXTINF:-1, BT Sport ESPN
+#EXTINF:-1,BT Sport ESPN
 http://trabzontv.xyz:8080/CIFTCI/CIFTCI/199569?checkedby:iptvcat.com
-#EXTINF: -1, BTSpt / / ESPNHD
+#EXTINF:-1,BTSpt// ESPNHD
 http://45.153.35.224:8000/play/a008?checkedby:iptvcat.com
-#EXTINF: -1, BTSpt / / ESPNHD
+#EXTINF:-1,BTSpt//ESPNHD
 http://45.153.35.224:8000/play/a01q?checkedby:iptvcat.com
 #EXTINF:-1,EUROSPORT 1
 http://stariptv.org:8080/wael2021/123456/16127?checkedby:iptvcat.com
