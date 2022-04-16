@@ -2039,3 +2039,4 @@ http://stariptv.org:8080/hakim2021/123456/9356?checkedby:iptvcat.com
 https://iptv-org.github.io/iptv/countries/aw.m3u
 https://iptv-org.github.io/iptv/countries/jm.m3u
 https://iptv-org.github.io/iptv/countries/cw.m3u
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8?streamDelay=180&amp;useHttps=true
